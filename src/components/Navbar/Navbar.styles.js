@@ -9,7 +9,8 @@ export const Bar = styled.div`
   min-height: 66px;
   max-height: 6vh;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  width: 100%;
+  width: 100vw;
+  max-width: 100vw;
   position:fixed;
   background-color: white;
   z-index: 1;
