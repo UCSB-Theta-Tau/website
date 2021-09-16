@@ -1,6 +1,7 @@
 import styled from 'styled-components';
+import Typist from 'react-typist';
 
-export const FullPageContainer = styled.div`
+export const FullPageContainer = styled(Typist)`
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -10,8 +11,7 @@ export const FullPageContainer = styled.div`
   max-width: 100vw;
   color: white;
   font-family: 'Azeret Mono', monospace;
-  background: ${(props) => props.background};
-  background-color: ${(props) => props.background || 'black'};
+  background-color: #4c0000;
 `;
 
 export const FullPageTitle = styled.div`
@@ -21,16 +21,6 @@ export const FullPageTitle = styled.div`
   @media (max-width: 480px) {
       line-height: 1.0em;
       margin-bottom: 0.5em;
-  }
-`;
-
-export const FullPageSubtitle = styled.div`
-  font-size: 3.5em;
-  text-align: center;
-  word-spacing: -0.3em;
-  @media (max-width: 480px) {
-    line-height: 1.0em;
-    margin-bottom: 0.5em;
   }
 `;
 
