@@ -39,12 +39,13 @@ export const TTText = styled.div`
 `;
 
 export const PillarContainer = styled.div`
-  display: grid;
-  grid-template-columns: 2fr 1fr 2fr;
-  grid-template-rows: 1fr;
+  display: flex;
   flex-direction: row;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
   font-family: Raleway,sans-serif;
   min-height: 100vh;
+  @media (max-width: 480px) {
+    flex-direction: column;
+  }
 `;
