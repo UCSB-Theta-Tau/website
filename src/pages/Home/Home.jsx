@@ -1,8 +1,10 @@
 import React from 'react';
 import {
-  FullPage, Quote, HomeFullPage, Pillar,
+  Quote, HomeFullPage, Pillar,
 } from '../../components';
-import { HomeAbout, TTTitle, PillarContainer } from './Home.styles';
+import {
+  HomeAbout, TTTitle, PillarContainer, Subsection,
+} from './Home.styles';
 
 const Home = () => (
   <>
@@ -13,7 +15,9 @@ const Home = () => (
       </TTTitle>
       <Quote quote="The purpose of Theta Tau is to develop and maintain a high standard of professional interest among its members, and to unite them in a strong bond of fraternal fellowship." />
     </HomeAbout>
-    <FullPage subtitle="Pillars" background="#4c0000" />
+    <Subsection>
+      Pillars
+    </Subsection>
     <PillarContainer>
       <Pillar
         pillar="service"

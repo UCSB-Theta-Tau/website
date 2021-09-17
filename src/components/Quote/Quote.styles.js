@@ -6,11 +6,10 @@ export const QuoteContainer = styled.div`
   flex-direction: row;
   justify-content: center;
   max-width: 60vw;
-  font-size: 2em;
+  font-size: 1.5em;
   text-align: left;
-  margin-bottom: 2em;
   @media (max-width: 480px) {
-    max-width: 80vw;
+    max-width: 90vw;
   }
 `;
 
