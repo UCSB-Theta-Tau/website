@@ -11,7 +11,14 @@ export const FullPageContainer = styled(Typist)`
   max-width: 100vw;
   color: white;
   font-family: 'Azeret Mono', monospace;
+  background: url(${process.env.PUBLIC_URL}/home.png);
   background-color: #4c0000;
+  background-size: 160vw;
+  @media (max-width: 480px) {
+    background-size: 100vw;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
 `;
 
 export const FullPageTitle = styled.div`

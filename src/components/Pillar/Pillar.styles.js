@@ -1,6 +1,10 @@
 import styled from 'styled-components';
 import ReactCardFlip from 'react-card-flip';
 
+export const WhiteBackground = styled.div`
+  background-color: white;
+`;
+
 export const PillarContainer = styled(ReactCardFlip)`
   display: flex;
   flex-direction: column;
@@ -17,12 +21,8 @@ export const PillarTitle = styled.div`
 
 export const PillarText = styled.div`
   font-size: 1em;
-  padding-left: 5em;
-  padding-right: 5em;
-  @media (max-width: 480px) {
-    padding-left: 1em;
-    padding-right: 1em;
-  }
+  padding-left: 3vw;
+  padding-right: 3vw;
 `;
 
 export const PillarCard = styled.div`
@@ -34,10 +34,12 @@ export const PillarCard = styled.div`
   height: 25vw;
   box-shadow: 0 0 3vh 3vh rgba(0, 0, 0, 0.075);
   border-radius: 3vh;
+  background-color: white;
   @media (max-width: 480px) {
     width: 90vw;
     height: 90vw;
     box-shadow: 0 0 0.5vh 0.5vh rgba(0, 0, 0, 0.075);
+    margin-bottom: 1em;
   }
 `;
 
