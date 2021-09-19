@@ -4,7 +4,7 @@ import {
 } from './FullPage.styles';
 
 const FullPage = (props) => (
-  <FullPageContainer background={props.background}>
+  <FullPageContainer img={props.img ? `url(${process.env.PUBLIC_URL + props.img})` : 'none'} color={props.color ? props.color : 'white'}>
     <FullPageTitle>
       {props.title}
     </FullPageTitle>

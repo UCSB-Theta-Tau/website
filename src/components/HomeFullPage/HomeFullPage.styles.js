@@ -7,11 +7,9 @@ export const FullPageContainer = styled(Typist)`
   align-items: center;
   justify-content: center;
   height: 100vh;
-  width: 100vw;
-  max-width: 100vw;
   color: white;
   font-family: 'Azeret Mono', monospace;
-  background: url(${process.env.PUBLIC_URL}/home.png);
+  background: url(${process.env.PUBLIC_URL}/static/home/home.png);
   background-color: #4c0000;
   background-size: 160vw;
   @media (max-width: 480px) {

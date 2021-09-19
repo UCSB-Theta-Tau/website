@@ -4,7 +4,7 @@ import {
   Route,
 } from 'react-router-dom';
 import { Navbar } from './components';
-import { Home } from './pages';
+import { Home, History } from './pages';
 
 function App() {
   return (
@@ -13,7 +13,7 @@ function App() {
 
       <Route exact path="/" component={Home} />
 
-      <Route path="/history" />
+      <Route path="/history" component={History} />
       <Route path="/brotherhood" />
       <Route path="/professionalism" />
       <Route path="/service" />

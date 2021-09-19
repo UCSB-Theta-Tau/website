@@ -29,29 +29,3 @@ export const TTText = styled.div`
   font-size: 2em;
   margin-bottom: 1em;
 `;
-
-export const Subsection = styled.div`
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  background-color: #4c0000;
-  font-family: Raleway,sans-serif;
-  font-size: 3.5em;
-  color: white;
-  padding-top: 1em;
-`;
-
-export const PillarContainer = styled.div`
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
-  align-items: center;
-  font-family: Raleway,sans-serif;
-  background-color: #4c0000;
-  padding: 5em;
-  @media (max-width: 480px) {
-    padding: 4em;
-    flex-direction: column;
-  }
-`;
