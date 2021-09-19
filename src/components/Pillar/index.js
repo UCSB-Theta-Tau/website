@@ -1,1 +1,0 @@
-export { Pillar } from './Pillar';

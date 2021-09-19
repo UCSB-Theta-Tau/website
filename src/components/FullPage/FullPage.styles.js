@@ -6,12 +6,14 @@ export const FullPageContainer = styled.div`
   align-items: center;
   justify-content: center;
   height: 100vh;
-  width: 100vw;
   max-width: 100vw;
   color: white;
   font-family: 'Azeret Mono', monospace;
-  background: ${(props) => props.background};
-  background-color: ${(props) => props.background || 'black'};
+  background: ${(props) => props.img};
+  background-size: cover;
+  background-position: center;
+  text-transform: uppercase;
+  background-color: ${(props) => props.color};
 `;
 
 export const FullPageTitle = styled.div`
@@ -19,8 +21,8 @@ export const FullPageTitle = styled.div`
   text-align: center;
   word-spacing: -0.3em;
   @media (max-width: 480px) {
-      line-height: 1.0em;
-      margin-bottom: 0.5em;
+    line-height: 1.0em;
+    margin-bottom: 0.5em;
   }
 `;
 
@@ -40,7 +42,7 @@ export const FullPageText = styled.div`
   text-align: center;
   max-width: 40%;
   @media (max-width: 480px) {
-      font-size: 2em;
-      max-width: 100vw;
+    font-size: 2em;
+    max-width: 100vw;
   }
 `;
