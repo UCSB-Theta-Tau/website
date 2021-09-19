@@ -7,7 +7,7 @@ export const DeckContainer = styled.div`
   justify-content: center;
   background-color: ${(props) => (props.dark ? '#4c0000' : 'white')};
   font-family: Raleway,sans-serif;
-  height: 100vh;
+  min-height: 100vh;
 `;
 
 export const DeckTitle = styled.div`
