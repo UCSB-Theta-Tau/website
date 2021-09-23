@@ -20,6 +20,7 @@ export const FullPageTitle = styled.div`
   font-size: 5em;
   text-align: center;
   word-spacing: -0.3em;
+  overflow-wrap: anywhere;
   @media (max-width: 480px) {
     line-height: 1.0em;
     margin-bottom: 0.5em;

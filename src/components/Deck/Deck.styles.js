@@ -15,7 +15,7 @@ export const DeckTitle = styled.div`
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: 5em;
+  font-size: 4.5em;
   ${(props) => (props.dark
     ? `color: white;
     border-bottom: 5px solid white;`

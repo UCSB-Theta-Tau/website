@@ -1,20 +1,12 @@
 import React from 'react';
 import {
-  Quote, HomeFullPage, Deck,
+  About, HomeFullPage, Deck,
 } from '../../components';
-import {
-  HomeAbout, TTTitle,
-} from './Home.styles';
 
 const Home = () => (
   <>
     <HomeFullPage />
-    <HomeAbout>
-      <TTTitle>
-        Theta Tau
-      </TTTitle>
-      <Quote quote="The purpose of Theta Tau is to develop and maintain a high standard of professional interest among its members, and to unite them in a strong bond of fraternal fellowship." />
-    </HomeAbout>
+    <About title="Theta Tau" quote text="The purpose of Theta Tau is to develop and maintain a high standard of professional interest among its members, and to unite them in a strong bond of fraternal fellowship." />
     <Deck
       title="pillars"
       dark
