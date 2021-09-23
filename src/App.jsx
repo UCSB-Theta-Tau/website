@@ -4,7 +4,7 @@ import {
   Route,
 } from 'react-router-dom';
 import { Navbar } from './components';
-import { Home, History } from './pages';
+import { Home, History, Brotherhood } from './pages';
 
 function App() {
   return (
@@ -14,7 +14,7 @@ function App() {
       <Route exact path="/" component={Home} />
 
       <Route path="/history" component={History} />
-      <Route path="/brotherhood" />
+      <Route path="/brotherhood" component={Brotherhood} />
       <Route path="/professionalism" />
       <Route path="/service" />
 
