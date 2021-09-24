@@ -5,7 +5,7 @@ import {
 } from 'react-router-dom';
 import { Navbar } from './components';
 import {
-  Home, History, Brotherhood, Professionalism,
+  Home, History, Brotherhood, Professionalism, Service,
 } from './pages';
 
 function App() {
@@ -18,7 +18,7 @@ function App() {
       <Route path="/history" component={History} />
       <Route path="/brotherhood" component={Brotherhood} />
       <Route path="/professionalism" component={Professionalism} />
-      <Route path="/service" />
+      <Route path="/service" component={Service} />
 
       <Route path="/actives" />
       <Route path="/alumni" />
