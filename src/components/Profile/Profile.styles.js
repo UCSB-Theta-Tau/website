@@ -18,6 +18,10 @@ export const ProfilePicture = styled.div`
     color: white;
     font-family: Raleway,sans-serif;
     border: 1px solid black;
+    @media (max-width: 480px) {
+        width: 60vw;
+        height: 60vw;
+    }
 `;
 
 export const ProfileName = styled.div`
