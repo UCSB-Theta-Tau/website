@@ -1,7 +1,7 @@
 import React from 'react';
 import { Class } from '../../components';
 import { ActivesContainer } from './Actives.styles';
-import classes from './Actives.json';
+import classes from './active_list.json';
 
 const Actives = () => (
   <ActivesContainer>

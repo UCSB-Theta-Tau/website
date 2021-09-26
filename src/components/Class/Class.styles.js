@@ -11,11 +11,14 @@ export const ClassContainer = styled.div`
 `;
 
 export const ClassName = styled.div`
-    width: 100%;
-    font-size: 2.5em;
     text-align: center;
-    text-transform: capitalize;
-    padding: 1vh;
+    font-size: 3em;
+    text-transform: uppercase;
+    border-bottom: 5px solid #8b0000;
+    margin-bottom: 0.5em;
+    @media (max-width: 480px) {
+      padding-bottom: 0.5em;
+    }
 `;
 
 export const ProfilesContainer = styled.div`
