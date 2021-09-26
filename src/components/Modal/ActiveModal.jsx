@@ -24,7 +24,9 @@ const ActiveModal = (props) => {
             <ModalSubtitle>Year/Major</ModalSubtitle>
             <ModalText>{props.year}</ModalText>
             <ModalSubtitle>Pledge Class</ModalSubtitle>
-            <ModalText>{props.pledgeClass}</ModalText>
+            <ModalText>
+              {props.pledgeClass.charAt(0).toUpperCase() + props.pledgeClass.slice(1)}
+            </ModalText>
             <ModalSubtitle>Hometown</ModalSubtitle>
             <ModalText>{props.hometown}</ModalText>
           </div>

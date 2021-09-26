@@ -4,7 +4,7 @@ import { ProfileContainer, ProfileName, ProfilePicture } from './Profile.styles'
 const Profile = (props) => {
   const changeModal = () => {
     const { profile } = props;
-    profile.pledgeClass = props.pledgeClass.charAt(0).toUpperCase() + props.pledgeClass.slice(1);
+    profile.pledgeClass = props.pledgeClass;
     props.setModal(profile);
   };
 
