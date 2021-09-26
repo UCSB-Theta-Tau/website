@@ -10,7 +10,11 @@ const Class = (props) => (
     <ProfilesContainer>
       {
         props.actives.map((profile) => (
-          <Profile class={props.name} image={profile.image} name={profile.name} />
+          <Profile
+            profile={profile}
+            pledgeClass={props.name}
+            setModal={props.setModal}
+          />
         ))
     }
     </ProfilesContainer>

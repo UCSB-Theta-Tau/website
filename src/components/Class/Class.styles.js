@@ -12,9 +12,9 @@ export const ClassContainer = styled.div`
 
 export const ClassName = styled.div`
     text-align: center;
-    font-size: 3em;
+    font-size: 2em;
     text-transform: uppercase;
-    border-bottom: 5px solid #8b0000;
+    border-bottom: 3px solid #8b0000;
     margin-bottom: 0.5em;
     @media (max-width: 480px) {
       padding-bottom: 0.5em;
