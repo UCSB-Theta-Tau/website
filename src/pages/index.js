@@ -3,3 +3,4 @@ export { History } from './History';
 export { Brotherhood } from './Brotherhood';
 export { Professionalism } from './Professionalism';
 export { Service } from './Service';
+export { Actives } from './Actives';

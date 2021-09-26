@@ -5,7 +5,7 @@ import {
 } from 'react-router-dom';
 import { Navbar } from './components';
 import {
-  Home, History, Brotherhood, Professionalism, Service,
+  Home, History, Brotherhood, Professionalism, Service, Actives,
 } from './pages';
 
 function App() {
@@ -20,7 +20,7 @@ function App() {
       <Route path="/professionalism" component={Professionalism} />
       <Route path="/service" component={Service} />
 
-      <Route path="/actives" />
+      <Route path="/actives" component={Actives} />
       <Route path="/alumni" />
 
       <Route path="/rush" />
