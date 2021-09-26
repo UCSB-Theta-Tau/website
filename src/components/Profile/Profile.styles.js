@@ -1,0 +1,30 @@
+import styled from 'styled-components';
+
+export const ProfileContainer = styled.div`
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0.5vh;
+`;
+
+export const ProfilePicture = styled.div`
+    width: 20vw;
+    height: 20vw;
+    background-size: cover;
+    background-image: url(\"${process.env.PUBLIC_URL}/static/profiles/${(props) => `${props.class}/${props.image}`}\");
+    background-position: center;
+    cursor: pointer;
+    color: white;
+    font-family: Raleway,sans-serif;
+    border: 1px solid black;
+`;
+
+export const ProfileName = styled.div`
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0.5em;
+    font-size: 1.5em;
+`;
