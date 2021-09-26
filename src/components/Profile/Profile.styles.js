@@ -9,10 +9,10 @@ export const ProfileContainer = styled.div`
 `;
 
 export const ProfilePicture = styled.div`
-    width: 20vw;
-    height: 20vw;
+    width: 10vw;
+    height: 10vw;
     background-size: cover;
-    background-image: url(\"${process.env.PUBLIC_URL}/static/profiles/${(props) => `${props.class}/${props.image}`}\");
+    background-image: url(\"${process.env.PUBLIC_URL}/static/profiles/${(props) => `${props.pledgeClass}/${props.image}`}\");
     background-position: center;
     cursor: pointer;
     color: white;
@@ -30,5 +30,6 @@ export const ProfileName = styled.div`
     justify-content: center;
     align-items: center;
     margin: 0.5em;
-    font-size: 1.5em;
+    font-size: 1em;
+    text-align: center;
 `;

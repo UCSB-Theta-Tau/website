@@ -8,3 +8,4 @@ export { About } from './About';
 export { Gallery } from './Gallery';
 export { Class } from './Class';
 export { Profile } from './Profile';
+export { ActiveModal, AlumniModal } from './Modal';
