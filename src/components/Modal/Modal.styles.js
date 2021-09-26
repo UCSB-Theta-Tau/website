@@ -85,7 +85,7 @@ export const ModalProfile = styled.div`
 `;
 
 export const ModalProfileImage = styled.img`
-  width: 30%;
+  height: 10em;
   border: 1px solid black;
   @media (max-width: 480px) {
     width: 100%;
