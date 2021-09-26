@@ -6,7 +6,7 @@ export const ClassContainer = styled.div`
     align-items: center;
     justify-content: left;
     font-family: Raleway,sans-serif;
-    color: #333;
+    color: white;
     padding: 2vh;
 `;
 
@@ -14,8 +14,7 @@ export const ClassName = styled.div`
     text-align: center;
     font-size: 2em;
     text-transform: uppercase;
-    border-bottom: 3px solid #8b0000;
-    margin-bottom: 0.5em;
+    margin-bottom: 0.75em;
     @media (max-width: 480px) {
       padding-bottom: 0.5em;
     }

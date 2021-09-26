@@ -6,4 +6,5 @@ export const ActivesContainer = styled.div`
     align-items: center;
     justify-content: center;
     padding: 10vh;
+    background-color: #4c0000;
 `;

@@ -21,7 +21,8 @@ export const ModalCloseContainer = styled.div`
   align-items: right;
   justify-content: right;
   width: 100%;
-  padding-bottom: 0.75em;
+  padding: 2vh;
+  box-sizing: border-box;
 `;
 
 export const ModalClose = styled(FontAwesomeIcon)`
@@ -41,11 +42,10 @@ export const ModalInner = styled.div`
   right: 0;
   bottom: 0;
   left: 0;
-  width: 40%;
+  width: 60%;
   margin: auto;
   background: white;
   border-radius: 5px;
-  padding: 2em 4em 4em 4em;
   overflow-y: scroll !important;
   max-height: 70%;
   display: flex;
@@ -59,11 +59,10 @@ export const ModalInner = styled.div`
 `;
 
 export const ModalSubtitle = styled.div`
-  width: 100%;
+  width: 80%;
   font-weight: bold;
   font-size: 1.25em;
-  padding-top: 0.25em;
-  padding-bottom: 0.1em;
+  padding-top: 0.5em;
 `;
 
 export const ModalText = styled.div`
@@ -72,11 +71,11 @@ export const ModalText = styled.div`
 `;
 
 export const ModalProfile = styled.div`
-  width: 100%;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
+  padding: 0 4vh 4vh 4vh;
   @media (max-width: 480px) {
     flex-direction: column-reverse;
     justify-content: left;
@@ -84,10 +83,22 @@ export const ModalProfile = styled.div`
   }
 `;
 
-export const ModalProfileImage = styled.img`
-  height: 10em;
-  border: 1px solid black;
+export const ModalProfileImageContainer = styled.div`
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 60%;
+  max-height: 100%;
+  padding-left: 2vh;
+  box-sizing: border-box;
   @media (max-width: 480px) {
-    width: 100%;
+    padding-left: 0;
   }
+`;
+
+export const ModalProfileImage = styled.img`
+  width: 80%;
+  border-radius: 5px;
 `;
