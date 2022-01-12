@@ -66,6 +66,16 @@
                 "about": "A COE undergrad working on a BS in Mechanical Engineering, a total nerd for aerospace and rocketry, TT Regent for the 2020-2021 COVID year",
                 "linkedin": "https://www.linkedin.com/in/kenkuboshima/",
                 "image": "kenkuboshima.png"
+            },
+            {
+                "name": "Fraternal Fellowship",
+                "year": "Fifth Year Jacqueminot Engineer",
+                "hometown": "Springfield, MO",
+                "why": "Lol",
+                "what": "strong bond",
+                "about": "tt bro",
+                "linkedin": "https://www.linkedin.com/in/bakul-patel",
+                "image": "fraternalfellowship.png"
             }
         ]
     },
@@ -286,12 +296,50 @@
                 "about": "I love hanging out with friends and going out on random spontaneous adventures. Im also a pretty big tech nerd and love video games and anything software related.",
                 "linkedin": "https://www.linkedin.com/in/sahilnaik/",
                 "image": "sahilnaik.jpeg"
+            },
+            {
+                "name": "Surya Pugal"
             }
         ]
     },
     {
         "class": "theta",
         "actives": [
+            {
+                "name": "Andrew Chen",
+                "year": "Second Year Electrical Engineering",
+                "hometown": "Saratoga, CA"
+            },
+            {
+                "name": "Andrew Mah",
+                "year": "Third Year Mechanical Engineering",
+                "hometown": "San Gabriel, CA"
+            },
+            {
+                "name": "Andy Wu",
+                "year": "Third Year Computer Science",
+                "hometown": "Rowland Heights, CA"
+            },
+            {
+                "name": "Ben Neuman",
+                "year": "Second Year Mechanical Engineering",
+                "hometown": "Burlingame, CA"
+            },
+            {
+                "name": "Dan Le",
+                "year": "Third Year Chemical Engineering",
+                "hometown": "Westminster, CA"
+            },
+            {
+                "name": "Dhruv Aggarwal",
+                "year": "Second Year Electrical Engineering",
+                "hometown": "Oak Park, CA"
+            },
+            {
+                "name": "Jake Amano",
+                "year": "Third Year Computer Engineering",
+                "hometown": "Torrance, CA"
+            },
             {
                 "name": "Justin Chang",
                 "year": "Second Year Computer Science",
@@ -301,6 +349,51 @@
                 "about": "In my free time, I enjoy backpacking, playing video games, and spending time with my friends.",
                 "linkedin": "https://www.linkedin.com/in/just-in-chang/",
                 "image": "justinchang.png"
+            },
+            {
+                "name": "Kyle Kam",
+                "year": "Fourth Year Computer Engineering",
+                "hometown": "San Mateo, CA"
+            },
+            {
+                "name": "Saahil Joshi",
+                "year": "Second Year Computer Science",
+                "hometown": "Fremont, CA"
+            },
+            {
+                "name": "Skylar Winig",
+                "year": "Third Year Computer Engineering",
+                "hometown": "Rancho Palos Verdes, CA"
+            }
+        ]
+    },
+    {
+        "class": "iota",
+        "actives": [
+            {
+                "name": "Anthony Botros",
+                "year": "Third Year Mechanical Engineering",
+                "hometown": "Van Nuys, CA"
+            },
+            {
+                "name": "Edison Chen",
+                "year": "Second Year Electrical Engineering",
+                "hometown": "San Jose, CA"
+            },
+            {
+                "name": "Ethan Nguyen",
+                "year": "Third Year Computer Engineering",
+                "hometown": "Anaheim, CA"
+            },
+            {
+                "name": "Kelvin Zhang",
+                "year": "Second Year Computer Science",
+                "hometown": "San Ramon, CA"
+            },
+            {
+                "name": "Tim Qin",
+                "year": "Second Year Electrical Engineering",
+                "hometown": "Los Angeles, CA"
             }
         ]
     }
