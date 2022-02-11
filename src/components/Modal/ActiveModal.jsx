@@ -19,20 +19,44 @@ const ActiveModal = (props) => {
         </ModalCloseContainer>
         <ModalProfile>
           <div style={{ width: '100%' }}>
-            <ModalSubtitle>Year/Major</ModalSubtitle>
-            <ModalText>{props.year}</ModalText>
-            <ModalSubtitle>Pledge Class</ModalSubtitle>
-            <ModalText>
-              {props.pledgeClass.charAt(0).toUpperCase() + props.pledgeClass.slice(1)}
-            </ModalText>
-            <ModalSubtitle>Hometown</ModalSubtitle>
-            <ModalText>{props.hometown}</ModalText>
-            <ModalSubtitle>Why I joined Theta Tau</ModalSubtitle>
-            <ModalText>{props.why}</ModalText>
-            <ModalSubtitle>What I enjoy about Theta Tau</ModalSubtitle>
-            <ModalText>{props.what}</ModalText>
-            <ModalSubtitle>About me</ModalSubtitle>
-            <ModalText>{props.about}</ModalText>
+            {props.year ? (
+              <>
+                <ModalSubtitle>Year/Major</ModalSubtitle>
+                <ModalText>{props.year}</ModalText>
+              </>
+            ) : null}
+            {props.pleedgeClass ? (
+              <>
+                <ModalSubtitle>Pledge Class</ModalSubtitle>
+                <ModalText>
+                  {props.pledgeClass.charAt(0).toUpperCase() + props.pledgeClass.slice(1)}
+                </ModalText>
+              </>
+            ) : null}
+            {props.hometown ? (
+              <>
+                <ModalSubtitle>Hometown</ModalSubtitle>
+                <ModalText>{props.hometown}</ModalText>
+              </>
+            ) : null}
+            {props.why ? (
+              <>
+                <ModalSubtitle>Why I joined Theta Tau</ModalSubtitle>
+                <ModalText>{props.why}</ModalText>
+              </>
+            ) : null}
+            {props.what ? (
+              <>
+                <ModalSubtitle>What I enjoy about Theta Tau</ModalSubtitle>
+                <ModalText>{props.what}</ModalText>
+              </>
+            ) : null}
+            {props.about ? (
+              <>
+                <ModalSubtitle>About me</ModalSubtitle>
+                <ModalText>{props.about}</ModalText>
+              </>
+            ) : null}
           </div>
           <ModalProfileImageContainer>
             <ModalProfileImage src={`${process.env.PUBLIC_URL}/static/profiles/${props.pledgeClass}/${props.img}`} alt={props.name} />
