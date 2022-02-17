@@ -308,37 +308,49 @@
             {
                 "name": "Andrew Chen",
                 "year": "Second Year Electrical Engineering",
-                "hometown": "Saratoga, CA"
+                "hometown": "Saratoga, CA",
+                "about": "Hey, I'm Andrew! I am a self-proclaimed comedic genius if only to myself (most definitely only to myself) and I love sleep (having it and not having it), playing too much video games, and impulse buying things that I'm currently interested in! Current hobbies include mechanical keyboards and analog photography, so if you ever want to chat about those things I'd love to!",
+                "linkedin": "https://www.linkedin.com/in/andrewchen118/"
             },
             {
                 "name": "Andrew Mah",
                 "year": "Third Year Mechanical Engineering",
-                "hometown": "San Gabriel, CA"
+                "hometown": "San Gabriel, CA",
+                "about": "Hey! I'm a third year Mechanical Engineering major and have a strong interest in the automotive industry. Outside of school, I like to play video games (League/Valorant/TFT) with friends and compete in the YGO scene. I hope to also get back into playing basketball!",
+                "linkedin": "https://www.linkedin.com/in/andrewmah45/"
             },
             {
                 "name": "Andy Wu",
                 "year": "Third Year Computer Science",
-                "hometown": "Rowland Heights, CA"
+                "hometown": "Rowland Heights, CA",
+                "about": "I like to play games and my fav food is fried rice"
             },
             {
                 "name": "Ben Neuman",
                 "year": "Second Year Mechanical Engineering",
-                "hometown": "Burlingame, CA"
+                "hometown": "Burlingame, CA",
+                "about": "Answering this question for what I enjoy about TT---I really enjoy the sense of community that Theta Tau brings. I have made many close friends through TT events and am eager to make many more in the near future!"
             },
             {
                 "name": "Dan Le",
                 "year": "Third Year Chemical Engineering",
-                "hometown": "Westminster, CA"
+                "hometown": "Westminster, CA",
+                "about": "I like finding new movies to watch with friends and playing board games afterwards. I also play videogames. A lot.",
+                "linkedin": "https://www.linkedin.com/in/dan-le-0b6085205/"
             },
             {
                 "name": "Dhruv Aggarwal",
                 "year": "Second Year Electrical Engineering",
-                "hometown": "Oak Park, CA"
+                "hometown": "Oak Park, CA",
+                "about": "I'm currently a 2nd Year working on switching my major to Computer Engineering, but aside from school I spend my free time teaching and training martial arts. I also enjoy listening to music and playing video games with friends!",
+                "linkedin": "https://www.linkedin.com/in/dhruvnaggarwal/"
             },
             {
                 "name": "Jake Amano",
                 "year": "Third Year Computer Engineering",
-                "hometown": "Torrance, CA"
+                "hometown": "Torrance, CA",
+                "about": "I like to hoop, listen to Drake, eat chicken, and work anyone in Warzone.",
+                "linkedin": "www.linkedin.com/in/jakeamano"
             },
             {
                 "name": "Justin Chang",
@@ -353,17 +365,24 @@
             {
                 "name": "Kyle Kam",
                 "year": "Fourth Year Computer Engineering",
-                "hometown": "San Mateo, CA"
+                "hometown": "San Mateo, CA",
+                "about": "I love everything comedy, especially sketches and stand up. I also love playing soccer although I'm terrible at it. And I think One Piece is pretty cool.",
+                "linkedin": "https://www.linkedin.com/in/kyle-kam/"
+
             },
             {
                 "name": "Saahil Joshi",
                 "year": "Second Year Computer Science",
-                "hometown": "Fremont, CA"
+                "hometown": "Fremont, CA",
+                "about": "I like videogames, working out, and basketball.",
+                "linkedin": "https://www.linkedin.com/in/saahil-joshi-094797219/"
             },
             {
                 "name": "Skylar Winig",
                 "year": "Third Year Computer Engineering",
-                "hometown": "Rancho Palos Verdes, CA"
+                "hometown": "Rancho Palos Verdes, CA",
+                "about": "In my free time, I like to surf, play soccer, and watch F1",
+                "linkedin": "https://www.linkedin.com/in/skylar-winig/"
             }
         ]
     },
@@ -373,27 +392,36 @@
             {
                 "name": "Anthony Botros",
                 "year": "Third Year Mechanical Engineering",
-                "hometown": "Van Nuys, CA"
+                "hometown": "Van Nuys, CA",
+                "about": "I am a mechanical engineer major with an interest in materials science. I like to build stuff in my spare time and I do a lot of research work. I enjoy learning new things and I always like to go hiking, playing sports or video games, or doing anything with friends.",
+                "linkedin": "https://www.linkedin.com/in/botrosanthony/"
             },
             {
                 "name": "Edison Chen",
                 "year": "Second Year Electrical Engineering",
-                "hometown": "San Jose, CA"
+                "hometown": "San Jose, CA",
+                "about": "I like video games",
+                "linkedin": "https://www.linkedin.com/in/echen555/"
             },
             {
                 "name": "Ethan Nguyen",
-                "year": "Third Year Computer Engineering",
-                "hometown": "Anaheim, CA"
+                "year": "Second Year Computer Engineering",
+                "hometown": "Anaheim, CA",
+                "about": "I like watching movies, hiking, and cooking random meals I see on TikTok. I always seem to forget to bring a pencil to class so if you see me please offer me one.",
+		        "linkedin": "https://www.linkedin.com/in/ethan-nguyen17/"
             },
             {
                 "name": "Kelvin Zhang",
                 "year": "Second Year Computer Science",
-                "hometown": "San Ramon, CA"
+                "hometown": "San Ramon, CA",
+                "about": "I was born in the Midwest, grew up in the East Coast, and been living in the Bay Area for the past 6 years."
             },
             {
                 "name": "Tim Qin",
                 "year": "Second Year Electrical Engineering",
-                "hometown": "Los Angeles, CA"
+                "hometown": "Los Angeles, CA",
+                "about": "I am a second year electrical engineering student. I like reading manga and playing games on my free time.",
+                "linkedin": "www.linkedin.com/in/timqin01"
             }
         ]
     }
