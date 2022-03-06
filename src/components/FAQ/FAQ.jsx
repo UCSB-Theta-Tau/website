@@ -1,12 +1,12 @@
 /* eslint-disable react/jsx-props-no-spreading */
 import React from 'react';
 import { QandA } from '../QandA';
-import { AboutContainer } from './FAQ.styles';
+import { FAQContainer } from './FAQ.styles';
 
 const FAQ = (props) => (
-  <AboutContainer>
+  <FAQContainer>
     <QandA {...props} />
-  </AboutContainer>
+  </FAQContainer>
 );
 
 export { FAQ };

@@ -1,29 +1,25 @@
 import React, { useState } from 'react';
-import { StyledFaq } from './QandA.styles';
+// import { StyledFaq } from './QandA.styles';
 
 const QandA = (props) => {
   const [isOpen, toggleOpen] = useState(false);
   return (
-    <StyledFaq onClick={() => toggleOpen(!isOpen)}>
-      {
-        (props).rows.map((row) => (
-          <>
-            <Question
-              question={row.question}
-              isOpen={isOpen}
-              onClick={toggleOpen}
-              answerId={row.id}
-            />
-            <Answer
-              answer={row.answer}
-              isOpen={isOpen}
-              onClick={toggleOpen}
-              answerId={row.id}
-            />
-          </>
-        ))
-     }
-    </StyledFaq>
+    (props).data.map((row) => (
+      <>
+        <Question
+          question={row.question}
+          isOpen={isOpen}
+          onClick={toggleOpen}
+          answerId={row.id}
+        />
+        <Answer
+          answer={row.answer}
+          isOpen={isOpen}
+          onClick={toggleOpen}
+          answerId={row.id}
+        />
+      </>
+    ))
   );
 };
 
