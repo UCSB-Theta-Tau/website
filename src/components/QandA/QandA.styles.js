@@ -4,13 +4,13 @@ export const StyledFaq = styled.div`
   cursor: pointer;
   margin: 0 0 10px;
 
-  div.faq-question {
+  div.FAQ__question {
     font-size: 125%;
     font-weight: 800;
     margin: 0 0 5px;
   }
 
-  div.faq-answer {
+  div.FAQ_answer {
     background: #fff;
     overflow: hidden;
 

@@ -1,58 +1,47 @@
+/* eslint-disable import/no-extraneous-dependencies */
 import React, { useState } from 'react';
-// import { StyledFaq } from './QandA.styles';
+import { useSpring, animated } from 'react-spring';
+import useResizeAware from 'react-resize-aware';
+import { StyledFaq, StyledFaqsList } from './QandA.styles';
 
 const QandA = (props) => {
   const [isOpen, toggleOpen] = useState(false);
+  const [resizeListener, { height }] = useResizeAware();
+  const animProps = useSpring({
+    height: isOpen ? height : 0,
+    opacity: isOpen ? 1 : 0,
+  });
   return (
-    (props).data.map((row) => (
-      <>
-        <Question
-          question={row.question}
-          isOpen={isOpen}
-          onClick={toggleOpen}
-          answerId={row.id}
-        />
-        <Answer
-          answer={row.answer}
-          isOpen={isOpen}
-          onClick={toggleOpen}
-          answerId={row.id}
-        />
-      </>
-    ))
+    <StyledFaqsList>
+      {props.data.map((row) => (
+        <StyledFaq onClick={() => toggleOpen(!isOpen)}>
+          <Question question={row.question} answerId={row.id} />
+          <Answer
+            answer={row.answer}
+            answerId={row.id}
+            anim={animProps}
+            resize={resizeListener}
+          />
+        </StyledFaq>
+      ))}
+    </StyledFaqsList>
   );
 };
 
 const Question = (props) => (
   <>
-    <dt>
-      <button
-        type="button"
-        className="FAQ__question"
-        aria-expanded={props.open}
-        aria-controls={props.answerId}
-        onClick={props.onToggle}
-      >
-        {props.question}
-      </button>
-    </dt>
+    <div className="FAQ__question">{props.question}</div>
   </>
 );
 
-function isOpenClass(open) {
-  if (open === true) {
-    return 'FAQ_answer';
-  }
-  return 'FAQ_answer_hidden';
-}
-
 const Answer = (props) => (
   <>
-    <dd>
-      <p className={isOpenClass(props.open)} id={props.id}>
+    <animated.div className="faq-answer" style={props.anim}>
+      <span style={{ position: 'relative' }}>
+        {props.resize}
         {props.answer}
-      </p>
-    </dd>
+      </span>
+    </animated.div>
   </>
 );
 
