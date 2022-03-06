@@ -7,3 +7,9 @@ export const FAQContainer = styled.div`
     justify-content: center;
     max-height: 20vh;
 `;
+
+export const StyledFaqsList = styled.div`
+  background: #efefef;
+  margin: 20px 0;
+  padding: 1rem;
+`;

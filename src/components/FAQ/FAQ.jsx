@@ -1,11 +1,15 @@
 /* eslint-disable react/jsx-props-no-spreading */
 import React from 'react';
 import { QandA } from '../QandA';
-import { FAQContainer } from './FAQ.styles';
+import { FAQContainer, StyledFaqsList } from './FAQ.styles';
 
 const FAQ = (props) => (
   <FAQContainer>
-    <QandA {...props} />
+    <StyledFaqsList>
+      {props.data.map((row) => (
+        <QandA {...row} />
+      ))}
+    </StyledFaqsList>
   </FAQContainer>
 );
 
