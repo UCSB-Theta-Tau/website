@@ -1,4 +1,31 @@
-import React from 'react';
+import React, { useState } from 'react';
+import { StyledFaq } from './QandA.styles';
+
+const QandA = (props) => {
+  const [isOpen, toggleOpen] = useState(false);
+  return (
+    <StyledFaq onClick={() => toggleOpen(!isOpen)}>
+      {
+        (props).rows.map((row) => (
+          <>
+            <Question
+              question={row.question}
+              isOpen={isOpen}
+              onClick={toggleOpen}
+              answerId={row.id}
+            />
+            <Answer
+              answer={row.answer}
+              isOpen={isOpen}
+              onClick={toggleOpen}
+              answerId={row.id}
+            />
+          </>
+        ))
+     }
+    </StyledFaq>
+  );
+};
 
 const Question = (props) => (
   <>
@@ -6,7 +33,7 @@ const Question = (props) => (
       <button
         type="button"
         className="FAQ__question"
-        aria-expanded={props.isOpen}
+        aria-expanded={props.open}
         aria-controls={props.answerId}
         onClick={props.onToggle}
       >
@@ -16,7 +43,7 @@ const Question = (props) => (
   </>
 );
 
-function isOpen(open) {
+function isOpenClass(open) {
   if (open === true) {
     return 'FAQ_answer';
   }
@@ -26,11 +53,11 @@ function isOpen(open) {
 const Answer = (props) => (
   <>
     <dd>
-      <p className={isOpen(props.isOpen)} id={props.id}>
+      <p className={isOpenClass(props.open)} id={props.id}>
         {props.answer}
       </p>
     </dd>
   </>
 );
 
-export { Question, Answer };
+export { QandA };

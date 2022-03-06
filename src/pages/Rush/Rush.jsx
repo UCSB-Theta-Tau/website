@@ -13,15 +13,13 @@ const fbString = (
   // </>
 );
 
-const data = {
-  rows: [
-    {
-      id: '1',
-      question: 'question',
-      answer: 'answer',
-    },
-  ],
-};
+const data = [
+  {
+    id: '1',
+    question: 'question',
+    answer: 'answer',
+  },
+];
 
 const Rush = () => (
   <>

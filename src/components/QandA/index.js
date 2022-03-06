@@ -1,1 +1,1 @@
-export { Question, Answer } from './QandA';
+export { QandA } from './QandA';
