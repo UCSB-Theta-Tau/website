@@ -1,15 +1,11 @@
 import styled from 'styled-components';
 
-export const FAQContainer = styled.div`
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    max-height: 20vh;
-`;
-
 export const StyledFaqsList = styled.div`
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;    
   background: #efefef;
   margin: 20px 0;
-  padding: 1rem;
+  padding: rem;
 `;
