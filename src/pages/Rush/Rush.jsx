@@ -51,7 +51,7 @@ const Rush = () => (
         fbString,
       ]}
     />
-    <FAQ data={data} />
+    <FAQ title="Frequently Asked Questions" data={data} />
   </>
 );
 

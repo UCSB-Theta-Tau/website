@@ -1,4 +1,3 @@
-/* eslint-disable import/no-extraneous-dependencies */
 import React, { useState } from 'react';
 import { useSpring, animated } from 'react-spring';
 import useResizeAware from 'react-resize-aware';
