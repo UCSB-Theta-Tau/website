@@ -6,8 +6,10 @@ export const StyledFaqsList = styled.div`
   flex-direction: column;
   justify-content: center;
   background: #efefef;
-  margin: 20px 0;
+  padding: 10em 0 10em 0;
   padding: rem;
+  font-family: Raleway,sans-serif;
+  text-align: center;
 `;
 
 export const FaqTitle = styled.div`
