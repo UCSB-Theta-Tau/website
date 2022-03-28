@@ -1,5 +1,100 @@
 [
     {
+        "class": "founding",
+        "actives": [
+            {
+                "name": "Aaron Nguyen",
+                "year": "Graduated: BS Mechanical Engineering '19",
+                "hometown": "San Jose, CA",
+                "linkedin": "https://www.linkedin.com/in/aaronknguyen/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Abhijit Kulkarni",
+                "year": "Graduated: BS Computer Science '19",
+                "hometown": "Cupertino, CA",
+                "linkedin": "https://www.linkedin.com/in/abhijitprograms/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Alan Tran",
+                "year": "Graduated: BS Computer Engineering '19",
+                "hometown": "San Gabriel, CA",
+                "linkedin": "https://www.linkedin.com/in/alanthetran/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Allen Salcedo",
+                "year": "Graduated: BS Electrical Engineering '19",
+                "hometown": "Lancaster, CA",
+                "linkedin": "https://www.linkedin.com/in/allensalcedo/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Anna Lee",
+                "year": "Graduated: BS Computer Engineering '19",
+                "hometown": "Los Angeles, CA",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Asitha Kaduwela",
+                "year": "Graduated: BS Computer Engineering '17",
+                "hometown": "Berkeley, CA",
+                "linkedin": "https://www.linkedin.com/in/asitha-kaduwela-8b259690/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Blake Collins",
+                "year": "Graduated: BS Chemical Engineering '17",
+                "hometown": "Simi Valley, CA",
+                "linkedin": "https://www.linkedin.com/in/blake-collins-147b40114/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Brian Yan",
+                "year": "Graduated: BS Computer Science '17",
+                "hometown": "Pleasanton, CA",
+                "linkedin": "https://www.linkedin.com/in/brianyan1/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Cuong Nguyen",
+                "year": "Graduated: BS Electrical Engineering '17",
+                "hometown": "San Jose, CA",
+                "linkedin": "https://www.linkedin.com/in/aaronknguyen/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "David Wang",
+                "year": "Graduated: BS Computer Science '17",
+                "hometown": "San Jose, CA",
+                "linkedin": "https://www.linkedin.com/in/aaronknguyen/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Douglas Pang",
+                "year": "Graduated: BS Chemical Engineering '19",
+                "hometown": "San Jose, CA",
+                "linkedin": "https://www.linkedin.com/in/aaronknguyen/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Eric Wu",
+                "year": "Graduated: BS Electrical Engineering '19",
+                "hometown": "San Jose, CA",
+                "linkedin": "https://www.linkedin.com/in/aaronknguyen/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Gregory Bontemps",
+                "year": "Graduated: BS Mechanical Engineering '19",
+                "hometown": "San Jose, CA",
+                "linkedin": "https://www.linkedin.com/in/aaronknguyen/",
+                "image": "fraternalfellowship.png"
+            }
+        ]
+    },
+    {
         "class": "gamma",
         "actives": [
             {
