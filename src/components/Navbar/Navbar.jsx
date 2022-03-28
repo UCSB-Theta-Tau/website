@@ -56,7 +56,7 @@ const Navbar = () => {
         </MenuItem>
         <MenuItem>
           <MenuLink to="/brotherhood" onClick={handleClose}>
-            Brotherhood
+            Family
           </MenuLink>
         </MenuItem>
         <MenuItem>
