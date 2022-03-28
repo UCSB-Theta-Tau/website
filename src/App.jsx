@@ -1,12 +1,7 @@
 import React from 'react';
-import {
-  HashRouter as Router,
-  Route,
-} from 'react-router-dom';
+import { BrowserRouter as Router, Route } from 'react-router-dom';
 import { Navbar } from './components';
-import {
-  Home, History, Brotherhood, Professionalism, Service, Actives, Alumni,
-} from './pages';
+import { Actives, Alumni, Brotherhood, History, Home, Professionalism, Rush, Service } from './pages';
 
 function App() {
   return (
@@ -23,7 +18,7 @@ function App() {
       <Route path="/actives" component={Actives} />
       <Route path="/alumni" component={Alumni} />
 
-      <Route path="/rush" />
+      <Route path="/rush" component={Rush} />
     </Router>
   );
 }
