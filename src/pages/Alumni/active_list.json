@@ -60,40 +60,142 @@
             {
                 "name": "Cuong Nguyen",
                 "year": "Graduated: BS Electrical Engineering '17",
-                "hometown": "San Jose, CA",
-                "linkedin": "https://www.linkedin.com/in/aaronknguyen/",
+                "hometown": "Orange County, CA",
+                "linkedin": "https://www.linkedin.com/in/christian-nguyen-665487139/",
                 "image": "fraternalfellowship.png"
             },
             {
                 "name": "David Wang",
                 "year": "Graduated: BS Computer Science '17",
-                "hometown": "San Jose, CA",
-                "linkedin": "https://www.linkedin.com/in/aaronknguyen/",
+                "hometown": "Pleasanton, CA",
+                "linkedin": "https://www.linkedin.com/in/david-wang-524949100/",
                 "image": "fraternalfellowship.png"
             },
             {
                 "name": "Douglas Pang",
                 "year": "Graduated: BS Chemical Engineering '19",
-                "hometown": "San Jose, CA",
-                "linkedin": "https://www.linkedin.com/in/aaronknguyen/",
+                "hometown": "Alhambra, CA",
+                "linkedin": "https://www.linkedin.com/in/pangdoug/",
                 "image": "fraternalfellowship.png"
             },
             {
                 "name": "Eric Wu",
-                "year": "Graduated: BS Electrical Engineering '19",
-                "hometown": "San Jose, CA",
-                "linkedin": "https://www.linkedin.com/in/aaronknguyen/",
+                "year": "Graduated: BS Electrical Engineering '17",
+                "hometown": "San Francisco, CA",
+                "linkedin": "https://www.linkedin.com/in/ericwu95/",
                 "image": "fraternalfellowship.png"
             },
             {
                 "name": "Gregory Bontemps",
-                "year": "Graduated: BS Mechanical Engineering '19",
-                "hometown": "San Jose, CA",
-                "linkedin": "https://www.linkedin.com/in/aaronknguyen/",
+                "year": "Graduated: BS Chemical Engineering '17",
+                "hometown": "Lafayette, CA",
+                "linkedin": "https://www.linkedin.com/in/gregory-bontemps-69630a116/",
                 "image": "fraternalfellowship.png"
             },
             {
-                
+                "name": "Jordan Ang",
+                "year": "Graduated: BS Computer Engineering '19",
+                "hometown": "Stockton, CA",
+                "linkedin": "hhttps://www.linkedin.com/in/jordanangcodes/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Keith Long",
+                "year": "Graduated: BS Computer Science '18",
+                "hometown": "Irvine, CA",
+                "linkedin": "https://www.linkedin.com/in/keithlong01/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Lauren Dumapias",
+                "year": "Graduated: BS Computer Science '17",
+                "hometown": "Fontana, CA",
+                "linkedin": "https://www.linkedin.com/in/laurendumapias/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Mario Infante",
+                "year": "Graduated: BS Computer Science '18",
+                "hometown": "Escondido, CA",
+                "linkedin": "linkedin.com/in/mario-infante/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Peter Master",
+                "year": "Graduated: BS Computer Science '17",
+                "hometown": "Fontana, CA",
+                "linkedin": "https://www.linkedin.com/in/laurendumapias/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Phu Tran",
+                "year": "Graduated: BS Computer Science '17",
+                "hometown": "Fontana, CA",
+                "linkedin": "https://www.linkedin.com/in/laurendumapias/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Richard Wei",
+                "year": "Graduated: BS Computer Science '17",
+                "hometown": "Fontana, CA",
+                "linkedin": "https://www.linkedin.com/in/laurendumapias/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Ryan Fu",
+                "year": "Graduated: BS Computer Science '17",
+                "hometown": "Fontana, CA",
+                "linkedin": "https://www.linkedin.com/in/laurendumapias/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Sherry Li",
+                "year": "Graduated: BS Computer Science '17",
+                "hometown": "Fontana, CA",
+                "linkedin": "https://www.linkedin.com/in/laurendumapias/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Simon Wong",
+                "year": "Graduated: BS Computer Science '17",
+                "hometown": "Fontana, CA",
+                "linkedin": "https://www.linkedin.com/in/laurendumapias/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Sungin Kim",
+                "year": "Graduated: BS Computer Science '17",
+                "hometown": "Fontana, CA",
+                "linkedin": "https://www.linkedin.com/in/laurendumapias/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Timothy Hinh",
+                "year": "Graduated: BS Computer Science '17",
+                "hometown": "Fontana, CA",
+                "linkedin": "https://www.linkedin.com/in/laurendumapias/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Tyler Vuong",
+                "year": "Graduated: BS Computer Science '17",
+                "hometown": "Fontana, CA",
+                "linkedin": "https://www.linkedin.com/in/laurendumapias/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Vikram Sastry",
+                "year": "Graduated: BS Computer Science '17",
+                "hometown": "Fontana, CA",
+                "linkedin": "https://www.linkedin.com/in/laurendumapias/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Yesh Ramesh",
+                "year": "Graduated: BS Computer Science '17",
+                "hometown": "Fontana, CA",
+                "linkedin": "https://www.linkedin.com/in/laurendumapias/",
+                "image": "fraternalfellowship.png"
             }
         ]
     },
