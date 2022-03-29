@@ -122,79 +122,302 @@
             },
             {
                 "name": "Peter Master",
-                "year": "Graduated: BS Computer Science '17",
-                "hometown": "Fontana, CA",
-                "linkedin": "https://www.linkedin.com/in/laurendumapias/",
+                "year": "Graduated: BS Computer Science '18",
+                "hometown": "Walnut Creek, CA",
+                "linkedin": "https://www.linkedin.com/in/peter-master/",
                 "image": "fraternalfellowship.png"
             },
             {
                 "name": "Phu Tran",
-                "year": "Graduated: BS Computer Science '17",
-                "hometown": "Fontana, CA",
-                "linkedin": "https://www.linkedin.com/in/laurendumapias/",
+                "year": "Graduated: BS Mechanical Engineering '19",
+                "hometown": "Sacramento, CA",
+                "linkedin": "https://www.linkedin.com/in/peterphutran/",
                 "image": "fraternalfellowship.png"
             },
             {
                 "name": "Richard Wei",
-                "year": "Graduated: BS Computer Science '17",
-                "hometown": "Fontana, CA",
-                "linkedin": "https://www.linkedin.com/in/laurendumapias/",
+                "year": "Graduated: BS Computer Engineering '17",
+                "hometown": "Fremont, CA",
+                "linkedin": "https://www.linkedin.com/in/richard-wei-03a13391/",
                 "image": "fraternalfellowship.png"
             },
             {
                 "name": "Ryan Fu",
                 "year": "Graduated: BS Computer Science '17",
-                "hometown": "Fontana, CA",
-                "linkedin": "https://www.linkedin.com/in/laurendumapias/",
+                "hometown": "Saratoga, CA",
+                "linkedin": "https://www.linkedin.com/in/ryanfu1/",
                 "image": "fraternalfellowship.png"
             },
             {
                 "name": "Sherry Li",
-                "year": "Graduated: BS Computer Science '17",
-                "hometown": "Fontana, CA",
-                "linkedin": "https://www.linkedin.com/in/laurendumapias/",
+                "year": "Graduated: BS Computer Science '18",
+                "hometown": "Rancho Cucamonga, CA",
+                "linkedin": "https://www.linkedin.com/in/xuewensherryli/",
                 "image": "fraternalfellowship.png"
             },
             {
                 "name": "Simon Wong",
-                "year": "Graduated: BS Computer Science '17",
-                "hometown": "Fontana, CA",
-                "linkedin": "https://www.linkedin.com/in/laurendumapias/",
+                "year": "Graduated: BS Computer Science '18",
+                "hometown": "Hacienda Heights, CA",
+                "linkedin": "https://www.linkedin.com/in/thatonesimon/",
                 "image": "fraternalfellowship.png"
             },
             {
                 "name": "Sungin Kim",
-                "year": "Graduated: BS Computer Science '17",
-                "hometown": "Fontana, CA",
-                "linkedin": "https://www.linkedin.com/in/laurendumapias/",
+                "year": "Graduated: BS Computer Engineering '19",
+                "hometown": "South Pasadena, CA",
+                "linkedin": "https://www.linkedin.com/in/helloworldsungin/",
                 "image": "fraternalfellowship.png"
             },
             {
                 "name": "Timothy Hinh",
-                "year": "Graduated: BS Computer Science '17",
-                "hometown": "Fontana, CA",
-                "linkedin": "https://www.linkedin.com/in/laurendumapias/",
+                "year": "Graduated: BS Electrical Engineering '17",
+                "hometown": "Anaheim, CA",
+                "linkedin": "https://www.linkedin.com/in/timothyhinh/",
                 "image": "fraternalfellowship.png"
             },
             {
                 "name": "Tyler Vuong",
-                "year": "Graduated: BS Computer Science '17",
-                "hometown": "Fontana, CA",
-                "linkedin": "https://www.linkedin.com/in/laurendumapias/",
+                "year": "Graduated: BS Electrical Engineering '17",
+                "hometown": "Orange County, CA",
+                "linkedin": "https://www.linkedin.com/in/tyler-vuong-2bb267ab/",
                 "image": "fraternalfellowship.png"
             },
             {
                 "name": "Vikram Sastry",
-                "year": "Graduated: BS Computer Science '17",
-                "hometown": "Fontana, CA",
-                "linkedin": "https://www.linkedin.com/in/laurendumapias/",
+                "year": "Graduated: BS Computer Engineering '18",
+                "linkedin": "https://www.linkedin.com/in/vikram-sastry/",
                 "image": "fraternalfellowship.png"
             },
             {
                 "name": "Yesh Ramesh",
-                "year": "Graduated: BS Computer Science '17",
-                "hometown": "Fontana, CA",
-                "linkedin": "https://www.linkedin.com/in/laurendumapias/",
+                "year": "Graduated: BS Computer Engineering '18",
+                "hometown": "Cupertino, CA",
+                "linkedin": "https://www.linkedin.com/in/yeshramesh/",
+                "image": "fraternalfellowship.png"
+            }
+        ]
+    },
+    {
+        "class": "alpha",
+        "actives": [
+            {
+                "name": "Ajit Vijaykumar",
+                "year": "Graduated: BS Computer Science '20",
+                "hometown": "San Jose, CA",
+                "linkedin": "https://www.linkedin.com/in/ajitvijayakumar/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Andrew Chiang",
+                "year": "Graduated: BS Mechanical Engineering '20",
+                "hometown": "San Francisco, CA",
+                "linkedin": "https://www.linkedin.com/in/chiang-andrew/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Andrew Doan",
+                "year": "Graduated: BS Computer Engineering '20",
+                "hometown": "Orange County, CA",
+                "linkedin": "https://www.linkedin.com/in/andrewadoan/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Aryaman Das",
+                "year": "Graduated: BS Computer Science '19",
+                "hometown": "San Jose, CA",
+                "linkedin": "https://www.linkedin.com/in/aryaman-das/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Benson Chu",
+                "year": "Graduated: BS Computer Science '20",
+                "hometown": "San Francisco, CA",
+                "linkedin": "https://www.linkedin.com/in/benson-chu/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Derek Tin",
+                "year": "Graduated: BS Mechanical Engineering '19",
+                "hometown": "Fremont, CA",
+                "linkedin": "https://www.linkedin.com/in/derektin/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Elena Dang",
+                "year": "Graduated: BS Applied Statistics and Data Science '20",
+                "hometown": "Orange County, CA",
+                "linkedin": "https://www.linkedin.com/in/elena-dang/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Ethan Su",
+                "year": "Graduated: BS Computer Engineering '19",
+                "hometown": "West Covina, CA",
+                "linkedin": "https://www.linkedin.com/in/ethan-su-2b090610b/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Harshdeep Sandhu",
+                "year": "Graduated: BS Mechanical Engineering '19",
+                "hometown": "Ceres, CA",
+                "linkedin": "https://www.linkedin.com/in/h-sandhu/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Hunter Zeleznik",
+                "year": "Graduated: BS Chemical Engineering '19",
+                "hometown": "Stevenson Ranch, CA",
+                "linkedin": "https://www.linkedin.com/in/hunter-zeleznik-bb2b90127/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Lindsey Nguyen",
+                "year": "Graduated: BS Computer Science '19",
+                "hometown": "San Diego, CA",
+                "linkedin": "https://www.linkedin.com/in/lindsey-nguyen/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Maga Kim",
+                "year": "Graduated: BS Computer Engineering '19",
+                "hometown": "Berkeley, CA",
+                "linkedin": "https://www.linkedin.com/in/magakim/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Marc Viray",
+                "year": "Graduated: BS Mechanical Engineering '19",
+                "hometown": "Bellflower, CA",
+                "linkedin": "https://www.linkedin.com/in/marc-viray/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Max Boecheff",
+                "year": "Graduated: BS Chemical Engineering '19",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Raymond Yang",
+                "year": "Graduated: BS Electrical Engineering '19",
+                "hometown": "Walnut, CA",
+                "linkedin": "https://www.linkedin.com/in/rayc/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Richard Boone",
+                "year": "Graduated: BS Computer Engineering '19",
+                "hometown": "Fresno, CA",
+                "linkedin": "https://www.linkedin.com/in/richard-boone-7420b3107/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Shu Yang",
+                "year": "Graduated: BS Computer Science '18",
+                "hometown": "San Mateo, CA",
+                "linkedin": "https://www.linkedin.com/in/shuyang97/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Tam Kevin Do",
+                "year": "Graduated: BS Mechanical Engineering '19",
+                "hometown": "Anaheim, CA",
+                "linkedin": "https://www.linkedin.com/in/tamkevindo/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Trenton Koeper",
+                "year": "Graduated: BS Mechanical Engineering '19",
+                "linkedin": "https://www.linkedin.com/in/trenton-koeper/",
+                "image": "fraternalfellowship.png"
+            }
+        ]
+    },
+    {
+        "class": "beta",
+        "actives": [
+            {
+                "name": "Adil Truong",
+                "year": "Graduated: BS Computer Science '20",
+                "hometown": "San Francisco, CA",
+                "linkedin": "https://www.linkedin.com/in/adiltruong/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Anu Polisetty",
+                "year": "Graduated: BS Computer Science '20",
+                "hometown": "San Jose, CA",
+                "linkedin": "https://www.linkedin.com/in/anu-polisetty/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Domi Santiago",
+                "year": "Graduated: BS Mechanical Engineering '19",
+                "hometown": "Oceanside, CA",
+                "linkedin": "https://www.linkedin.com/in/domitila-santiago/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Edward Yuen",
+                "year": "Graduated: BS Electrical Enginering '20",
+                "hometown": "San Francisco, CA",
+                "linkedin": "https://www.linkedin.com/in/edward-yuen/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Eugene Luk",
+                "year": "Graduated: BS Electrical Engineering '19",
+                "hometown": "Alhambra, CA",
+                "linkedin": "https://www.linkedin.com/in/eugeneluk/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Jacob Del Rosario",
+                "year": "Graduated: BS Mechanical Engineering '20",
+                "hometown": "Irvine, CA",
+                "linkedin": "https://www.linkedin.com/in/jacobdelrosario/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Jaehun Chung",
+                "year": "Graduated: BS Chemical Engineering '19",
+                "hometown": "Laguna Miguel, CA",
+                "linkedin": "https://www.linkedin.com/in/jaehun-chung-947a8862/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Jeffrey Li",
+                "year": "Graduated: BS Electrical Engineering '20",
+                "hometown": "San Francisco, CA",
+                "linkedin": "https://www.linkedin.com/in/jeffreyli01/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Jeremy Choe",
+                "year": "Graduated: BS Electrical Engineering '19",
+                "hometown": "Martinez, CA",
+                "linkedin": "https://www.linkedin.com/in/jeremy-choe-0a033914a/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Linh Nguyen",
+                "year": "Graduated: BS Chemical Engineering '19",
+                "hometown": "Vietnam",
+                "linkedin": "https://www.linkedin.com/in/linh-nguyen-b550a214a/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Nikhil Patil",
+                "year": "Graduated: BS Computer Science '19",
+                "hometown": "Pleasanton, CA",
+                "linkedin": "https://www.linkedin.com/in/nikhil-patil1/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Wesley Lu",
+                "year": "Graduated: BS Computer Science '20",
+                "hometown": "Danville, CA",
+                "linkedin": "https://www.linkedin.com/in/wesleylu1899/",
                 "image": "fraternalfellowship.png"
             }
         ]
@@ -203,14 +426,210 @@
         "class": "gamma",
         "actives": [
             {
-                "name": "Jacob Resler",
-                "year": "First Year Materials Masters",
-                "hometown": "Escondido, CA",
-                "why": "I wanted to connect with more people in the College of Engineering who I could learn from and spend time with.",
-                "what": "It's been amazing to transition from asking for advice to being asked for advice from my brothers, and I'll always treasure the relationships I've made with people thanks to joining TT.",
-                "about": "I'm a senior in Mechanical Engineering and was accepted into the BS/MS program in Materials, so I'll be around SB for another year. Aside from driving myself crazy with school, I spend my time hiking and biking (road or mountain) and generally spending time away from my desk! I also dabble in coffee and craft brewing.",
-                "linkedin": "https://www.linkedin.com/in/j-resler/",
-                "image": "jacobresler.jpeg"
+                "name": "Andrew Kim",
+                "year": "Graduated: BS Mechanical Engineering '19",
+                "hometown": "Rancho Cucamonga, CA",
+                "linkedin": "https://www.linkedin.com/in/hongkim13/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Arjun Umashankar",
+                "year": "Graduated: BS Computer Science '20",
+                "hometown": "San Ramon, CA",
+                "linkedin": "https://www.linkedin.com/in/arjunumashankkar/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Austin Wong",
+                "year": "Graduated: BS Computer Science '21",
+                "hometown": "San Mateo, CA",
+                "linkedin": "https://www.linkedin.com/in/austinwong3/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Ben Ye",
+                "year": "Graduated: BS Computer Science '21",
+                "hometown": "Fremont, CA",
+                "linkedin": "https://www.linkedin.com/in/benye11/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Cindy Lu",
+                "year": "Graduated: BS Computer Science '20",
+                "hometown": "Newport Coast, CA",
+                "linkedin": "https://www.linkedin.com/in/cindy-lu/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Joanne Li",
+                "year": "Graduated: BS Computer Engineering '20",
+                "hometown": "San Francisco, CA",
+                "linkedin": "https://www.linkedin.com/in/joanne-li728/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Joon Lee",
+                "year": "Graduated: BS Computer Science '20",
+                "hometown": "Montrose, CA",
+                "linkedin": "https://www.linkedin.com/in/joonlee122/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Kalyn Klimek",
+                "year": "Graduated: BS Computer Science '21",
+                "hometown": "San Diego, CA",
+                "linkedin": "https://www.linkedin.com/in/kalyn-klimek/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Kelly Yu",
+                "year": "Graduated: BS Electrical Engineering '21",
+                "hometown": "Fremont, CA",
+                "linkedin": "https://www.linkedin.com/in/kellyzyu/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Mason Corey",
+                "year": "Graduated: BS Computer Engineering '21",
+                "hometown": "Palo Alto, CA",
+                "linkedin": "https://www.linkedin.com/in/m-corey/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Matthew Mitchell",
+                "year": "Graduated: BS Computer Science '20",
+                "hometown": "San Jose, CA",
+                "linkedin": "https://www.linkedin.com/in/matthew-mitchell-053709104/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Rahul Gokhale",
+                "year": "Graduated: BS Financial Mathematics and Statistics '22",
+                "linkedin": "https://www.linkedin.com/in/rahulgokhale1/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Richa Wadaskar",
+                "year": "Graduated: BS Computer Science '20",
+                "hometown": "San Jose, CA",
+                "linkedin": "https://www.linkedin.com/in/richa-wadaskar/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Sean Park",
+                "year": "Graduated: B '21",
+                "hometown": "South Pasadena, CA",
+                "linkedin": "https://www.linkedin.com/in/sungseanpark/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Shirlyn Tang",
+                "year": "Graduated: BS Computer Science '21",
+                "hometown": "Cupertino, CA",
+                "linkedin": "https://www.linkedin.com/in/shirlyn-tang/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Steve Regala",
+                "year": "Graduated: BS Applied Mathematics '21",
+                "hometown": "Sunnyvale, CA",
+                "linkedin": "https://www.linkedin.com/in/steve-regala-7991aa146/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Tim Cheng",
+                "year": "Graduated: BS Computer Engineering '20",
+                "hometown": "Taipei, Taiwan",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Yota Iwasaki",
+                "year": "Graduated: BS Mechanical Engineering '20",
+                "hometown": "Torrance, CA",
+                "linkedin": "https://www.linkedin.com/in/yotaiwasaki/",
+                "image": "fraternalfellowship.png"
+            }
+        ]
+    },
+    {
+        "class": "delta",
+        "actives": [
+            {
+                "name": "Andrew Luo",
+                "year": "Graduated: BS Computer Science '21",
+                "hometown": "Pleasanton, CA",
+                "linkedin": "https://www.linkedin.com/in/andrewlu0/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Brandon Chin",
+                "year": "Graduated: BS Mechanical Engineering '20",
+                "hometown": "Valencia, CA",
+                "linkedin": "https://www.linkedin.com/in/brandonmichaelchin/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Carolyn Hanson Lee",
+                "year": "Graduated: BS Computer Science '20",
+                "hometown": "San Francisco, CA",
+                "linkedin": "https://www.linkedin.com/in/carolyn-hanson-lee/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "David Farias-Llerenas",
+                "year": "Graduated: BS Computer Science '21",
+                "hometown": "Visalia, CA",
+                "linkedin": "https://www.linkedin.com/in/david-farias-llerenas/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Francis McVeigh-Dipeso",
+                "year": "Graduated: BS Electrical Engineering '21",
+                "hometown": "Livermore, CA",
+                "linkedin": "https://www.linkedin.com/in/fdipeso/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Joy Yi",
+                "year": "Graduated: BS Statistics and Data Science '21",
+                "hometown": "Alameda, CA",
+                "linkedin": "https://www.linkedin.com/in/joy-yi-b650a4176/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Kelly Yeh",
+                "year": "Graduated: BS Computer Engineering '21",
+                "hometown": "Arcadia, CA",
+                "linkedin": "https://www.linkedin.com/in/kelly-yeh-a23759180/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Norman Chung",
+                "year": "Graduated: BS Computer Science '21",
+                "hometown": "Diamond Bar, CA",
+                "linkedin": "https://www.linkedin.com/in/normanchung/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Priya Padmanabhan",
+                "year": "Graduated: BS Computer Science '21",
+                "hometown": "San Jose, CA",
+                "linkedin": "https://www.linkedin.com/in/priya107/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Ryan Siu",
+                "year": "Graduated: BS Computer Engineering '21",
+                "hometown": "Diamond Bar, CA",
+                "linkedin": "https://www.linkedin.com/in/ryansiu8833/",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Scott Matsubara",
+                "year": "Graduated: BS Computer Science '21",
+                "hometown": "Walnut, CA",
+                "linkedin": "https://www.linkedin.com/in/scott-matsubara-079232161/",
+                "image": "fraternalfellowship.png"
             }
         ]
     },
@@ -218,63 +637,45 @@
         "class": "epsilon",
         "actives": [
             {
-                "name": "ChanChan Mao",
-                "year": "Fourth Year Computer Science",
-                "hometown": "Bay Area, CA & Westfield, NJ",
-                "why": "I joined Theta Tau to meet new people with similar interests and like-minded goals.",
-                "what": "I love that there are so many brothers I can go to for advice or just to talk to.",
-                "about": "I am originally from the Bay Area and lived there for 19 years until my family suddenly moved to New Jersey, so I don't really have a \"hometown\" anymore.",
-                "linkedin": "https://www.linkedin.com/in/chanchanmao/",
-                "image": "chanchanmao.png"
+                "name": "Andrew Yung",
+                "year": "Graduated: BS Electrical Engineering '21",
+                "hometown": "Walnut, CA",
+                "linkedin": "https://www.linkedin.com/in/andrewsyung/",
+                "image": "fraternalfellowship.png"
             },
             {
-                "name": "Destin Wong",
-                "year": "First Year Computer Engineering Masters",
-                "hometown": "Hong Kong",
-                "why": "For the people!",
-                "what": "The culture and the community.",
-                "about": "I'm a 4th year electrical engineer who enjoys reading, video games, and sleeping :)).",
-                "linkedin": "https://www.linkedin.com/in/destin-wong/",
-                "image": "destinwong.jpeg"
+                "name": "Erin Woo",
+                "year": "Graduated: BS Computer Science '21",
+                "hometown": "Burlingame, CA",
+                "linkedin": "https://www.linkedin.com/in/erin-woo/",
+                "image": "fraternalfellowship.png"
             },
             {
-                "name": "Ethan Luu",
-                "year": "Fourth Year Electrical Engineering",
-                "hometown": "Los Angeles, CA",
-                "why": "I joined Theta Tau because I wanted to meet and build bonds with like-minded individuals and learn more from the experiences of the brothers.",
-                "what": "I really enjoy Theta Tau because it allowed me to meet some of my closes friends at UCSB and offered support in helping me develop professionally and academically.",
-                "about": "In my free time, I love to work out, play videogames, and skate.",
-                "linkedin": "https://www.linkedin.com/in/ethan-luu-6048b6184/",
-                "image": "ethanluu.jpeg"
+                "name": "Jason Yoon",
+                "year": "Graduated: BS Electrical Engineering '21",
+                "hometown": "Cerritos, CA",
+                "linkedin": "https://www.linkedin.com/in/jason-hyuk-yoon-79a6a120a/",
+                "image": "fraternalfellowship.png"
             },
             {
-                "name": "Julian Wong",
-                "year": "Fourth Year Computer Science",
-                "hometown": "San Marcos, CA",
-                "why": "I joined Theta Tau to make friends!",
-                "what": "Everyone is amazing and so willing to help. Engineering can be really difficult but having so many people around that are fun and supportive make it a lot better!",
-                "about": "I am the scribe for the sigep chapter of TT! I'm a 3rd year CS major and some of my hobbies are working out, playing games, and reading.",
-                "linkedin": "https://www.linkedin.com/in/julianwong4213/",
-                "image": "julianwong.jpeg"
+                "name": "Kaylee Nguyen",
+                "year": "Graduated: BS Computer Science '21",
+                "hometown": "Yorba Linda, CA",
+                "linkedin": "https://www.linkedin.com/in/kaylee-n/",
+                "image": "fraternalfellowship.png"
             },
             {
-                "name": "Ken Kuboshima",
-                "year": "Fourth Year Mechanical Engineering",
-                "hometown": "Rancho Palos Verdes, CA",
-                "why": "After being unsuccessful at rushing a social frat, I tried rushing Theta Tau and I happened to really like everyone I talked to.",
-                "what": "I really enjoy hanging out with my bros, but frankly that's been limited due to COVID.",
-                "about": "A COE undergrad working on a BS in Mechanical Engineering, a total nerd for aerospace and rocketry, TT Regent for the 2020-2021 COVID year",
-                "linkedin": "https://www.linkedin.com/in/kenkuboshima/",
-                "image": "kenkuboshima.png"
+                "name": "Ryan Gormley",
+                "year": "Graduated: BS Computer Science '20",
+                "hometown": "Westford, CA",
+                "linkedin": "https://www.linkedin.com/in/ryan-gormley-14485b155/",
+                "image": "fraternalfellowship.png"
             },
             {
-                "name": "Fraternal Fellowship",
-                "year": "Fifth Year Jacqueminot Engineer",
-                "hometown": "Springfield, MO",
-                "why": "Lol",
-                "what": "strong bond",
-                "about": "tt bro",
-                "linkedin": "https://www.linkedin.com/in/bakul-patel",
+                "name": "Shaka Kanenobu",
+                "year": "Graduated: BS Computer Science '21",
+                "hometown": "San Diego, CA",
+                "linkedin": "https://www.linkedin.com/in/shaka-kanenobu/",
                 "image": "fraternalfellowship.png"
             }
         ]
@@ -283,54 +684,11 @@
         "class": "zeta",
         "actives": [
             {
-                "name": "Adarsh Garg",
-                "year": "Fourth Year Computer Engineering",
-                "hometown": "Irvine, CA",
-                "why": "I joined Theta Tau to meet new people with similar goals and interests and have a better balance between my social and professional college life.",
-                "what": "Getting advice from brothers/alumni and making new friends.",
-                "about": "I'm a huge Lakers fan, like to listen to music, and really enjoy watching TV shows and movies.",
-                "linkedin": "https://www.linkedin.com/in/adarsh-garg101/",
-                "image": "adarshgarg.png"
-            },
-            {
-                "name": "Cindy Zhao",
-                "year": "Fourth Year Computer Science",
-                "hometown": "Pleasanton, CA",
-                "why": "To make connections with like-minded individuals and to meet more people in engineering.",
-                "what": "Making friends and lifelong connections!",
-                "about": "Some of my hobbies are baking, hiking, and watching random things on Netflix.",
-                "linkedin": "https://www.linkedin.com/in/justin-l-571235123/",
-                "image": "cindyzhao.jpeg"
-            },
-            {
-                "name": "Justin Lin",
-                "year": "Fourth Year Chemical Engineering",
-                "hometown": "Cupertino, CA",
-                "why": "I wanted to meet more people in engineering.",
-                "what": "It's a good balance between a social and professional environment. The people I met really changed my life for the better and made college more enjoyable!",
-                "about": "I like to surf and game as in my free time.",
-                "linkedin": "https://www.linkedin.com/in/cindyzhao8/",
-                "image": "justinlin.png"
-            },
-            {
-                "name": "Shaun Chen",
-                "year": "Fourth Year Electrical Engineering",
-                "hometown": "Hacienda Heights, CA",
-                "why": "To make connections with other engineering major students that I can take beyond my 4 years at UCSB.",
-                "what": "I love the support system that I've made both academically and socially!",
-                "about": "I love traveling, video games, cinematography, minimalist aesthetics, and all the little innovative gadgets in the tech space!",
-                "linkedin": "https://www.linkedin.com/in/shaunchen8/",
-                "image": "shaunchen.jpeg"
-            },
-            {
-                "name": "Zion Wang",
-                "year": "Fourth Year Computer Engineering",
-                "hometown": "Thousand Oaks, CA",
-                "why": "Because I wanted more connections",
-                "what": "The camaraderie",
-                "about": "I like to surf and listen to One Direction. Directioner for life.",
-                "linkedin": "https://www.linkedin.com/in/zionwang123/",
-                "image": "zionwang.png"
+                "name": "Terrell Marshall",
+                "year": "Graduated: BS Computer Science '20",
+                "hometown": "Sacramento, CA",
+                "linkedin": "https://www.linkedin.com/in/terrellm/",
+                "image": "fraternalfellowship.png"
             }
         ]
     },
