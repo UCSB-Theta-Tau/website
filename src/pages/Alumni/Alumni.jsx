@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import { Class, AlumniModal } from '../../components';
+import { Class, ActiveModal } from '../../components';
 import { AlumniContainer } from './Alumni.styles';
-import classes from './active_list.json';
+import classes from './alumni_list.json';
 
 const Alumni = () => {
   const [show, setShow] = useState(false);
@@ -31,7 +31,7 @@ const Alumni = () => {
   return (
     <>
       {show ? (
-        <AlumniModal
+        <ActiveModal
           setShow={setShow}
           name={name}
           year={year}
