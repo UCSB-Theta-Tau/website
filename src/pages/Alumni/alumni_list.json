@@ -461,6 +461,13 @@
                 "image": "fraternalfellowship.png"
             },
             {
+                "name": "Jacob Resler",
+                "year": "Graduated: MS Materials '22",
+                "hometown": "Escondido, CA",
+                "linkedin": "https://www.linkedin.com/in/j-resler/",
+                "image": "Jacob_Resler.png"
+            },
+            {
                 "name": "Joanne Li",
                 "year": "Graduated: BS Computer Engineering '20",
                 "hometown": "San Francisco, CA",
@@ -644,6 +651,27 @@
                 "image": "fraternalfellowship.png"
             },
             {
+                "name": "ChanChan Mao",
+                "year": "Graduated: BS Computer Science '22",
+                "hometown": "Bay Area, CA and Westfield, NJ",
+                "linkedin": "https://www.linkedin.com/in/chanchanmao/",
+                "image": "ChanChan_Mao.png"
+            },
+            {
+                "name": "Destin Wong",
+                "year": "Graduated: MS Electrical and Computer Engineering '22",
+                "hometown": "Hong Kong",
+                "linkedin": "https://www.linkedin.com/in/destin-wong/",
+                "image": "Destin_Wong.jpeg"
+            },
+            {
+                "name": "Ethan Luu",
+                "year": "Graduated: BS Electrical Engineering '22",
+                "hometown": "Los Angeles, CA",
+                "linkedin": "https://www.linkedin.com/in/ethan-luu-6048b6184/",
+                "image": "Ethan_Luu.png"
+            },
+            {
                 "name": "Erin Woo",
                 "year": "Graduated: BS Computer Science '21",
                 "hometown": "Burlingame, CA",
@@ -658,11 +686,31 @@
                 "image": "fraternalfellowship.png"
             },
             {
+                "name": "Julian Wong",
+                "year": "Graduated: BS Computer Science '22",
+                "hometown": "San Marcos, CA",
+                "linkedin": "https://www.linkedin.com/in/julianwong4213/",
+                "image": "Julian_Wong.png"
+            },
+            {
                 "name": "Kaylee Nguyen",
                 "year": "Graduated: BS Computer Science '21",
                 "hometown": "Yorba Linda, CA",
                 "linkedin": "https://www.linkedin.com/in/kaylee-n/",
                 "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Ken Kuboshima",
+                "year": "Graduated: BS Mechanical Engineering '22",
+                "hometown": "Rancho Palos Verdes, CA",
+                "linkedin": "https://www.linkedin.com/in/kenkuboshima/",
+                "image": "Ken_Kuboshima.png"
+            },
+            {
+                "name": "Patrick Kuang",
+                "year": "Graduated: BS Computer Science '22",
+                "hometown": "San Ramon, CA",
+                "image": "Patrick_Kuang.png"
             },
             {
                 "name": "Ryan Gormley",
@@ -684,11 +732,79 @@
         "class": "zeta",
         "actives": [
             {
+                "name": "Adarsh Garg",
+                "year": "Graduated: BS Computer Engineering '22",
+                "hometown": "Irvine, CA",
+                "linkedin": "https://www.linkedin.com/in/adarsh-garg101/",
+                "image": "Adarsh_Garg.png"
+            },
+            {
+                "name": "Cindy Zhao",
+                "year": "Graduated: BS Computer Science '22",
+                "hometown": "Pleasanton, CA",
+                "linkedin": "https://www.linkedin.com/in/cindyzhao8/",
+                "image": "Cindy_Zhao.png"
+            },
+            {
+                "name": "Justin Lin",
+                "year": "Graduated: BS Chemical Engineering '22",
+                "hometown": "Cupertino, CA",
+                "linkedin": "https://www.linkedin.com/in/justin-l-571235123/",
+                "image": "Justin_Lin.png"
+            },
+            {
+                "name": "Shaun Chen",
+                "year": "Graduated: BS Electrical Engineering '22",
+                "hometown": "Hacienda Heights, CA",
+                "linkedin": "https://www.linkedin.com/in/shaunchen8/",
+                "image": "shaunchen.png"
+            },
+            {
                 "name": "Terrell Marshall",
                 "year": "Graduated: BS Computer Science '20",
                 "hometown": "Sacramento, CA",
                 "linkedin": "https://www.linkedin.com/in/terrellm/",
                 "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Zion Wang",
+                "year": "Graduated: BS Computer Engineering '22",
+                "hometown": "Thousand Oaks, CA",
+                "linkedin": "https://www.linkedin.com/in/zionwang123/",
+                "image": "zionwang.png"
+            }
+        ]
+    },
+    {
+        "class": "eta",
+        "actives": [
+            {
+                "name": "Ashley Wang",
+                "year": "Graduated: MS Computer Science '22",
+                "hometown": "San Jose, CA",
+                "linkedin": "https://www.linkedin.com/in/ashleyswang/",
+                "image": "Ashley_Wang.jpeg"
+            },
+            {
+                "name": "Lara Floegel-Shetty",
+                "year": "First Year Computer Science Masters",
+                "hometown": "Los Angeles, CA",
+                "linkedin": "https://www.linkedin.com/in/larafs/",
+                "image": "Lara_Floegel-Shetty.png"
+            },
+            {
+                "name": "Lina Zeng",
+                "year": "Fourth Year Computer Science",
+                "hometown": "Cupertino, CA",
+                "linkedin": "https://www.linkedin.com/in/alinazeng18/",
+                "image": "Lina_Zeng.png"
+            },
+            {
+                "name": "Koki Narimoto",
+                "year": "Third Year Computer Engineering",
+                "hometown": "Torrance, CA",
+                "linkedin": "www.linkedin.com/in/koki-narimoto/",
+                "image": "Koki_Narimoto.png"
             }
         ]
     }
