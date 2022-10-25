@@ -60,7 +60,8 @@
                 "what": "The people I've meet in the brotherhood. Each one of them so unique, and fun to talk to. Theta Tau really shift my perspective on college.",
                 "about": "I'm a nerd by heart. I enjoy video games, Dungeon & Dragons, and foam smithing.",
                 "linkedin": "https://www.linkedin.com/in/j-lorenzo/",
-                "image": "Jonathan_Lorenzo.png"
+                "image": "Jonathan_Lorenzo.png",
+                "hide": true
             },
             {
                 "name": "Khalid Mihlar",
@@ -100,7 +101,8 @@
                 "what": "I really enjoy being part of this great community of engineers. I think it is a really good balance of a social and academic environment.",
                 "about": "I am a fourth year Mechanical Engineering major. In my free time I like to play chess, skate around campus, and hang out with friends!",
                 "linkedin": "https://www.linkedin.com/in/michaelhowo/",
-                "image": "Michael_Howo.png"
+                "image": "Michael_Howo.png",
+                "hide": true
             },
             {
                 "name": "Rutvik Jha",
@@ -151,7 +153,8 @@
                 "hometown": "San Gabriel, CA",
                 "about": "Hey! I'm a fourth year Mechanical Engineering major and have a strong interest in the automotive industry. Outside of school, I like to play video games (League/Valorant/TFT) with friends and compete in the YGO scene. I hope to also get back into playing basketball!",
                 "linkedin": "https://www.linkedin.com/in/andrewmah45/",
-                "image": "Andrew_Mah.png"
+                "image": "Andrew_Mah.png",
+                "hide": true
             },
             {
                 "name": "Ben Neuman",
@@ -166,7 +169,8 @@
                 "hometown": "Westminster, CA",
                 "about": "I like finding new movies to watch with friends and playing board games afterwards. I also play videogames. A lot.",
                 "linkedin": "https://www.linkedin.com/in/dan-le-0b6085205/",
-                "image": "Dan_Le.jpg"
+                "image": "Dan_Le.jpg",
+                "hide": true
             },
             {
                 "name": "Dhruv Aggarwal",
@@ -397,7 +401,8 @@
                 "what": "Lucas",
                 "about": "Lucas",
                 "linkedin": "https://www.linkedin.com/in/lucas-liang/",
-                "image": "Lucas_Liang.jpg"
+                "image": "Lucas_Liang.jpg",
+                "hide": true
             },
             {
                 "name": "Mia Yamagiwa",

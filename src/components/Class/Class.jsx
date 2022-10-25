@@ -9,13 +9,16 @@ const Class = (props) => (
     </ClassName>
     <ProfilesContainer>
       {
-        props.actives.map((profile) => (
-          <Profile
-            profile={profile}
-            pledgeClass={props.name}
-            setModal={props.setModal}
-          />
-        ))
+        props.actives.map((profile) => {
+          if (profile.hide) return null;
+          return (
+            <Profile
+              profile={profile}
+              pledgeClass={props.name}
+              setModal={props.setModal}
+            />
+          );
+        })
     }
     </ProfilesContainer>
   </ClassContainer>
