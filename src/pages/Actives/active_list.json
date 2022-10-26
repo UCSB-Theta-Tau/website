@@ -65,7 +65,7 @@
             },
             {
                 "name": "Khalid Mihlar",
-                "year": "Fourth Year Computer Science",
+                "year": "Fourth Year Computer Engineering",
                 "hometown": "Torrance, CA",
                 "why": "I joined Theta Tau due to the profession nature of its members, and the strong brotherhood the active body presents for one another.",
                 "what": "The best part of TT is definitely the active body. For me personally, I feel comfortable talking to any of the actives. Everyone in this professional fraternity showcases a bond of fraternal friendship to each other, creating a strong brotherhood within the members that can be seen between any of the active body.",
@@ -141,7 +141,7 @@
         "actives": [
             {
                 "name": "Andrew Chen",
-                "year": "Third Year Electrical Engineering",
+                "year": "Third Year Computer Engineering",
                 "hometown": "Saratoga, CA",
                 "about": "Hey, I'm Andrew! I am a self-proclaimed comedic genius if only to myself (most definitely only to myself) and I love sleep (having it and not having it), playing too much video games, and impulse buying things that I'm currently interested in! Current hobbies include mechanical keyboards and analog photography, so if you ever want to chat about those things I'd love to!",
                 "linkedin": "https://www.linkedin.com/in/andrewchen118/",
@@ -174,7 +174,7 @@
             },
             {
                 "name": "Dhruv Aggarwal",
-                "year": "Third Year Electrical Engineering",
+                "year": "Third Year Computer Engineering",
                 "hometown": "Oak Park, CA",
                 "about": "I'm currently a 2nd Year working on switching my major to Computer Engineering, but aside from school I spend my free time teaching and training martial arts. I also enjoy listening to music and playing video games with friends!",
                 "linkedin": "https://www.linkedin.com/in/dhruvnaggarwal/",
@@ -182,7 +182,7 @@
             },
             {
                 "name": "Jake Amano",
-                "year": "Fourth Year Computer Engineering",
+                "year": "Fourth Year Electrical Engineering",
                 "hometown": "Torrance, CA",
                 "about": "I like to hoop, listen to Drake, eat chicken, and work anyone in Warzone.",
                 "linkedin": "www.linkedin.com/in/jakeamano",
@@ -229,7 +229,7 @@
             },
             {
                 "name": "Edison Chen",
-                "year": "Third Year Electrical Engineering",
+                "year": "Third Year Computer Engineering",
                 "hometown": "San Jose, CA",
                 "about": "I like video games",
                 "linkedin": "https://www.linkedin.com/in/echen555/",
@@ -252,9 +252,9 @@
             },
             {
                 "name": "Tim Qin",
-                "year": "Third Year Electrical Engineering",
+                "year": "Third Year Computer Engineering",
                 "hometown": "Los Angeles, CA",
-                "about": "I am a Third year electrical engineering student. I like reading manga and playing games on my free time.",
+                "about": "I am a Third year computer engineering student. I like reading manga and playing games on my free time.",
                 "linkedin": "www.linkedin.com/in/timqin01",
                 "image": "Tim_Qin.jpg"
             }
