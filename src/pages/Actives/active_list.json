@@ -293,16 +293,6 @@
                 "image": "Artyom_Keenan.jpg"
             },
             {
-                "name": "Bill Tran",
-                "year": "Fourth Year Computer Science",
-                "hometown": "Garden Grove, CA",
-                "why": "I joined TT to further my development as a professional. I wanted to explore different specialties in engineering, and have done so through meeting unique peers working in multiple different fields.",
-                "what": "TT is home to some of the most interesting and easy-going people I've met at UCSB! I love hanging out with my fellow actives and contributing to the growth of TT together.",
-                "about": "In a perfect world, I would be a music major.",
-                "linkedin": "https://www.linkedin.com/in/william-tran-245871191/",
-                "image": "Bill_Tran.jpg"
-            },
-            {
                 "name": "Daniella Polishchuk",
                 "year": "Second Year Electrical Engineering",
                 "hometown": "Fremont, CA",
@@ -451,9 +441,9 @@
                 "name": "Charles Bao",
                 "year": "Fourth Year Computer Science",
                 "hometown": "San Diego, CA",
-                "why": "cause a lot of my friends were actives and I wanted to meet new people :)",
-                "what": "hanging out with other actives and doing stupi stuff with them",
-                "about": "I'm very swag jk I spend most of my day asleep but when I'm awake I'm either watching TV, lifting, or hanging out with friends",
+                "why": "I joined because a lot of my friends were actives and I wanted to meet new people :)",
+                "what": "I enjoy hanging out with other actives and doing stupid stuff with them",
+                "about": "I spend most of my day asleep, but when I'm awake, I'm either watching TV, lifting, or hanging out with friends",
                 "linkedin": "https://www.linkedin.com/in/charles-bao-21709119b/",
                 "image": "Charles_Bao.jpg"
             }

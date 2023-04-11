@@ -787,24 +787,48 @@
             },
             {
                 "name": "Lara Floegel-Shetty",
-                "year": "First Year Computer Science Masters",
+                "year": "Graduated: MS Computer Science '22",
                 "hometown": "Los Angeles, CA",
                 "linkedin": "https://www.linkedin.com/in/larafs/",
                 "image": "Lara_Floegel-Shetty.png"
             },
             {
                 "name": "Lina Zeng",
-                "year": "Fourth Year Computer Science",
+                "year": "Graduated: BS Computer Science '22",
                 "hometown": "Cupertino, CA",
                 "linkedin": "https://www.linkedin.com/in/alinazeng18/",
                 "image": "Lina_Zeng.png"
             },
             {
                 "name": "Koki Narimoto",
-                "year": "Third Year Computer Engineering",
+                "year": "Graduated: BS Computer Science '22",
                 "hometown": "Torrance, CA",
                 "linkedin": "www.linkedin.com/in/koki-narimoto/",
                 "image": "Koki_Narimoto.png"
+            }
+        ]
+    },
+    {
+        "class": "theta",
+        "actives": [
+            {
+                "name": "Kyle Kam",
+                "year": "Graduated: BS Computer Engineering '22",
+                "hometown": "San Mateo, CA",
+                "linkedin": "https://www.linkedin.com/in/kyle-kam/",
+                "image": "Kyle_Kam.png"
+            }
+        ]
+    },
+    {
+        "class": "kappa",
+        "actives": [
+            {
+                "name": "Bill Tran",
+                "year": "Graduated: BS Computer Science '23",
+                "hometown": "Garden Grove, CA",
+                "linkedin": "https://www.linkedin.com/in/william-tran-245871191/",
+                "image": "Bill_Tran.jpg"
             }
         ]
     }
