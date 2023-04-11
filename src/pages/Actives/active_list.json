@@ -60,8 +60,7 @@
                 "what": "The people I've meet in the brotherhood. Each one of them so unique, and fun to talk to. Theta Tau really shift my perspective on college.",
                 "about": "I'm a nerd by heart. I enjoy video games, Dungeon & Dragons, and foam smithing.",
                 "linkedin": "https://www.linkedin.com/in/j-lorenzo/",
-                "image": "Jonathan_Lorenzo.png",
-                "hide": true
+                "image": "Jonathan_Lorenzo.png"
             },
             {
                 "name": "Khalid Mihlar",
@@ -169,8 +168,7 @@
                 "hometown": "Westminster, CA",
                 "about": "I like finding new movies to watch with friends and playing board games afterwards. I also play videogames. A lot.",
                 "linkedin": "https://www.linkedin.com/in/dan-le-0b6085205/",
-                "image": "Dan_Le.jpg",
-                "hide": true
+                "image": "Dan_Le.jpg"
             },
             {
                 "name": "Dhruv Aggarwal",
@@ -186,7 +184,8 @@
                 "hometown": "Torrance, CA",
                 "about": "I like to hoop, listen to Drake, eat chicken, and work anyone in Warzone.",
                 "linkedin": "www.linkedin.com/in/jakeamano",
-                "image": "Jake_Amano.jpg"
+                "image": "Jake_Amano.jpg",
+                "hide": true
             },
             {
                 "name": "Justin Chang",
@@ -371,7 +370,7 @@
                 "what": "I like being a part of a community.",
                 "about": "I enjoy listening to music from the 2000's and 2010's as well as K-pop. I also try to stay up to date with the news and politics.",
                 "linkedin": "https://www.linkedin.com/in/kaitlyn-t-32a620237",
-                "image": "Kaitlyn_Tom.jpg"
+                "image": "Kaitlyn_Tom.jpeg"
             },
             {
                 "name": "Kole Kikuta",
@@ -401,8 +400,7 @@
                 "what": "Lucas",
                 "about": "Lucas",
                 "linkedin": "https://www.linkedin.com/in/lucas-liang/",
-                "image": "Lucas_Liang.jpg",
-                "hide": true
+                "image": "Lucas_Liang.jpg"
             },
             {
                 "name": "Mia Yamagiwa",
@@ -443,6 +441,21 @@
                 "about": "My name is Tim and I'm currently pursuing a degree in Computer Science.",
                 "linkedin": "https://www.linkedin.com/in/timothychichang/",
                 "image": "Tim_Chang.jpg"
+            }
+        ]
+    },
+    {
+        "class": "lambda",
+        "actives": [
+            {
+                "name": "Charles Bao",
+                "year": "Fourth Year Computer Science",
+                "hometown": "San Diego, CA",
+                "why": "cause a lot of my friends were actives and I wanted to meet new people :)",
+                "what": "hanging out with other actives and doing stupi stuff with them",
+                "about": "I'm very swag jk I spend most of my day asleep but when I'm awake I'm either watching TV, lifting, or hanging out with friends",
+                "linkedin": "https://www.linkedin.com/in/charles-bao-21709119b/",
+                "image": "Charles_Bao.jpg"
             }
         ]
     }
