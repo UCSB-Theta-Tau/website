@@ -9,9 +9,6 @@ const Alumni = () => {
   const [year, setYear] = useState('');
   const [pledgeClass, setPledgeClass] = useState('');
   const [hometown, setHometown] = useState('');
-  const [why, setWhy] = useState('');
-  const [what, setWhat] = useState('');
-  const [about, setAbout] = useState('');
   const [linkedin, setLinkedin] = useState('');
   const [img, setImg] = useState('');
 
@@ -21,9 +18,6 @@ const Alumni = () => {
     setYear(profile.year);
     setPledgeClass(profile.pledgeClass);
     setHometown(profile.hometown);
-    setWhy(profile.why);
-    setWhat(profile.what);
-    setAbout(profile.about);
     setLinkedin(profile.linkedin);
     setImg(profile.image);
   };
@@ -37,9 +31,6 @@ const Alumni = () => {
           year={year}
           pledgeClass={pledgeClass}
           hometown={hometown}
-          why={why}
-          what={what}
-          about={about}
           linkedin={linkedin}
           img={img}
         />
