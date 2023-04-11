@@ -787,24 +787,51 @@
             },
             {
                 "name": "Lara Floegel-Shetty",
-                "year": "First Year Computer Science Masters",
+                "year": "Graduated: MS Computer Science '22",
                 "hometown": "Los Angeles, CA",
                 "linkedin": "https://www.linkedin.com/in/larafs/",
                 "image": "Lara_Floegel-Shetty.png"
             },
             {
                 "name": "Lina Zeng",
-                "year": "Fourth Year Computer Science",
+                "year": "Graduated: BS Computer Science '22",
                 "hometown": "Cupertino, CA",
                 "linkedin": "https://www.linkedin.com/in/alinazeng18/",
                 "image": "Lina_Zeng.png"
             },
             {
                 "name": "Koki Narimoto",
-                "year": "Third Year Computer Engineering",
+                "year": "Graduated: BS Computer Science '22",
                 "hometown": "Torrance, CA",
                 "linkedin": "www.linkedin.com/in/koki-narimoto/",
                 "image": "Koki_Narimoto.png"
+            }
+        ]
+    },
+    {
+        "class": "theta",
+        "actives": [
+            {
+                "name": "Kyle Kam",
+                "year": "Graduated: BS Computer Engineering '22",
+                "hometown": "San Mateo, CA",
+                "linkedin": "https://www.linkedin.com/in/kyle-kam/",
+                "image": "Kyle_Kam.png"
+            }
+        ]
+    },
+    {
+        "class": "kappa",
+        "actives": [
+            {
+                "name": "Bill Tran",
+                "year": "Graduated: BS Computer Science '23",
+                "hometown": "Garden Grove, CA",
+                "why": "I joined TT to further my development as a professional. I wanted to explore different specialties in engineering, and have done so through meeting unique peers working in multiple different fields.",
+                "what": "TT is home to some of the most interesting and easy-going people I've met at UCSB! I love hanging out with my fellow actives and contributing to the growth of TT together.",
+                "about": "In a perfect world, I would be a music major.",
+                "linkedin": "https://www.linkedin.com/in/william-tran-245871191/",
+                "image": "Bill_Tran.jpg"
             }
         ]
     }
