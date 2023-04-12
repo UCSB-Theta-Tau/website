@@ -438,6 +438,26 @@
         "class": "lambda",
         "actives": [
             {
+                "name": "Alexander Granados",
+                "year": "Third Year Computer Science",
+                "hometown": "Valencia, CA",
+                "why": "I joined to meet engineers that balanced academics and a social life",
+                "what": "I love having that I now have a group of friends in all of my classes, especially since they are always willing to help out whenever I get stuck",
+                "about": "I enjoy surfing, spending time outdoors, and hanging out with friends",
+                "linkedin": "https://www.linkedin.com/in/alexander-granados-",
+                "image": "Alexander_Granados.jpg"
+            },
+            {
+                "name": "Andrew Thai",
+                "year": "Second Year Computer Engineering",
+                "hometown": "San Jose, CA",
+                "why": "I joined Theta Tau to be apart of a community of likeminded individuals that could help me grow professionally and socially. I also really enjoyed rush and talking to all the actives.",
+                "what": "I really enjoy the collaborative environment that Theta Tau has provided as they helped me through tough classes and gave lots of career advice. I also love bonding with actives at events we have.",
+                "about": "I like basketball, hanging with friends, playing video games, and exploring new music. I'm a big Jermaine Cole fan.",
+                "linkedin": "https://www.linkedin.com/in/andrewthaii/",
+                "image": "Andrew_Thai.jpg"
+            },
+            {
                 "name": "Charles Bao",
                 "year": "Fourth Year Computer Science",
                 "hometown": "San Diego, CA",
@@ -446,6 +466,26 @@
                 "about": "I spend most of my day asleep, but when I'm awake, I'm either watching TV, lifting, or hanging out with friends",
                 "linkedin": "https://www.linkedin.com/in/charles-bao-21709119b/",
                 "image": "Charles_Bao.jpg"
+            },
+            {
+                "name": "Eric Ni",
+                "year": "Second Year Computer Science",
+                "hometown": "Dublin, CA",
+                "why": "I joined TT to make friends both in and outside of my major and to expand my social network.",
+                "what": "I love that I have people I know in all of my classes and people are always down to hang out. I've goten to explore much more of SB and Goleta after joining TT!",
+                "about": "In my free time, I enjoy playing video games, cooking + eating, and basking in the sun.",
+                "linkedin": "https://www.linkedin.com/in/eric-ni-cs/",
+                "image": "Eric_Ni.jpg"
+            },
+            {
+                "name": "Ryan He",
+                "year": "Second Year Computing",
+                "hometown": "Newport Beach, CA",
+                "why": "I joined TT to meet other engineering majors, make new friends, and receive professional assistance.",
+                "what": "I love that I am able to meet other majors and learn from their experiences. Pretty much in every class that I am in, I always know someone in TT taking it with me.",
+                "about": "In my free time, I enjoy playing tennis, going to the gym, playing video games, and hanging out with friends.",
+                "linkedin": "https://www.linkedin.com/in/ryanhe02/",
+                "image": "Ryan_He.jpg"
             }
         ]
     }
