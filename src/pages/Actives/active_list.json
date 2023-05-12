@@ -386,9 +386,9 @@
                 "name": "Lucas Liang",
                 "year": "Second Year Electrical Engineering",
                 "hometown": "San Jose, CA",
-                "why": "Lucas",
-                "what": "Lucas",
-                "about": "Lucas",
+                "why": "I joined Theta Tau to meet new people in my classes",
+                "what": "I enjoy being able to make friends with people with similar professional and social interests",
+                "about": "I love to surf, workout, and watch sports",
                 "linkedin": "https://www.linkedin.com/in/lucas-liang/",
                 "image": "Lucas_Liang.jpg"
             },
@@ -458,6 +458,16 @@
                 "image": "Andrew_Thai.jpg"
             },
             {
+                "name": "Bonnie Huynh",
+                "year": "Second Year Computer Engineering",
+                "hometown": "Hercules, CA",
+                "why": "I joined TT to make more engineering friends",
+                "what": "I love hanging out with my psibs <3",
+                "about": "I like listening to EDM and watching k-dramas",
+                "linkedin": "",
+                "image": "Bonnie_Huynh.jpg"
+            },
+            {
                 "name": "Charles Bao",
                 "year": "Fourth Year Computer Science",
                 "hometown": "San Diego, CA",
@@ -466,6 +476,16 @@
                 "about": "I spend most of my day asleep, but when I'm awake, I'm either watching TV, lifting, or hanging out with friends",
                 "linkedin": "https://www.linkedin.com/in/charles-bao-21709119b/",
                 "image": "Charles_Bao.jpg"
+            },
+            {
+                "name": "Claire Pemberton",
+                "year": "Second Year Computer Science",
+                "hometown": "Denver, CO",
+                "why": "I joined TT to meet other engineers with similar interests. I'm happy with my experience and have been able to make lots of friends while developing professionally!",
+                "what": "I love how supportive everyone is. It's really motivating to be around smart, talented students with diverse interests. ",
+                "about": "I love traveling, specifically backpacking. Hoping to go to Europe or India next. I also love music, art, videography, and baking!",
+                "linkedin": "https://www.linkedin.com/in/claire-pemberton-8b0438247",
+                "image": "fraternalfellowship.png"
             },
             {
                 "name": "Eric Ni",
@@ -486,6 +506,16 @@
                 "about": "In my free time, I enjoy playing tennis, going to the gym, playing video games, and hanging out with friends.",
                 "linkedin": "https://www.linkedin.com/in/ryanhe02/",
                 "image": "Ryan_He.jpg"
+            },
+            {
+                "name": "Sophia Tran",
+                "year": "Second Year Computer Science",
+                "hometown": "Newark, CA",
+                "why": "I joined TT to meet cool people in my + similar majors, and a huge plus has been having friends in most of my classes!",
+                "what": "I really love hanging out with my pledge class as well as the entire active body. It's been great to receive so much professional advice as well as being able to attend fun social events.",
+                "about": "I'm a semi-casual kpop and anime enjoyer, and I'm a total boba and coffee enthusiast.",
+                "linkedin": "https://www.linkedin.com/in/sophiatstran/",
+                "image": "Sophia_Tran.jpg"
             }
         ]
     }
