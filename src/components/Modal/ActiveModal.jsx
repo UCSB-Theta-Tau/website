@@ -1,10 +1,18 @@
-import React from 'react';
-import { faTimes } from '@fortawesome/free-solid-svg-icons';
-import { faLinkedin } from '@fortawesome/free-brands-svg-icons';
+import React from "react";
+import { faTimes } from "@fortawesome/free-solid-svg-icons";
+import { faLinkedin } from "@fortawesome/free-brands-svg-icons";
 import {
-  Modal, ModalInner, ModalCloseContainer, ModalClose, ModalSubtitle, ModalText, LinkedinButton,
-  ModalProfile, ModalProfileImage, ModalProfileImageContainer,
-} from './Modal.styles';
+  Modal,
+  ModalInner,
+  ModalCloseContainer,
+  ModalClose,
+  ModalSubtitle,
+  ModalText,
+  LinkedinButton,
+  ModalProfile,
+  ModalProfileImage,
+  ModalProfileImageContainer,
+} from "./Modal.styles";
 
 const ActiveModal = (props) => {
   const hideModal = () => {
@@ -18,7 +26,7 @@ const ActiveModal = (props) => {
           <ModalClose icon={faTimes} onClick={hideModal} />
         </ModalCloseContainer>
         <ModalProfile>
-          <div style={{ width: '100%' }}>
+          <div style={{ width: "100%" }}>
             {props.year && (
               <>
                 <ModalSubtitle>Year/Major</ModalSubtitle>
@@ -29,7 +37,8 @@ const ActiveModal = (props) => {
               <>
                 <ModalSubtitle>Pledge Class</ModalSubtitle>
                 <ModalText>
-                  {props.pledgeClass.charAt(0).toUpperCase() + props.pledgeClass.slice(1)}
+                  {props.pledgeClass.charAt(0).toUpperCase() +
+                    props.pledgeClass.slice(1)}
                 </ModalText>
               </>
             )}
@@ -59,7 +68,11 @@ const ActiveModal = (props) => {
             )}
           </div>
           <ModalProfileImageContainer>
-            <ModalProfileImage src={`${process.env.PUBLIC_URL}/static/profiles/${props.pledgeClass}/${props.img}`} alt={props.name} loading="lazy" />
+            <ModalProfileImage
+              src={`${process.env.PUBLIC_URL}/static/profiles/${props.pledgeClass}/${props.img}`}
+              alt={props.name}
+              loading="lazy"
+            />
             <ModalSubtitle>{props.name}</ModalSubtitle>
             <a target="_blank" href={props.linkedin} rel="noreferrer">
               <LinkedinButton icon={faLinkedin} />

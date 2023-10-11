@@ -1,1 +1,1 @@
-export { FullPage } from './FullPage';
+export { FullPage } from "./FullPage";

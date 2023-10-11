@@ -1,10 +1,10 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 export const FullPageContainer = styled.div`
   height: 100vh;
   max-width: 100vw;
   color: white;
-  font-family: 'Azeret Mono', monospace;
+  font-family: "Azeret Mono", monospace;
   background: ${(props) => props.img};
   background-size: cover;
   background-position: center;
@@ -27,7 +27,7 @@ export const FullPageTitle = styled.div`
   word-spacing: -0.3em;
   overflow-wrap: anywhere;
   @media (max-width: 480px) {
-    line-height: 1.0em;
+    line-height: 1em;
     margin-bottom: 0.5em;
   }
 `;
@@ -37,7 +37,7 @@ export const FullPageSubtitle = styled.div`
   text-align: center;
   word-spacing: -0.3em;
   @media (max-width: 480px) {
-    line-height: 1.0em;
+    line-height: 1em;
     margin-bottom: 0.5em;
   }
 `;

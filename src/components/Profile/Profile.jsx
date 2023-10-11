@@ -1,5 +1,9 @@
-import React from 'react';
-import { ProfileContainer, ProfileName, ProfilePicture } from './Profile.styles';
+import React from "react";
+import {
+  ProfileContainer,
+  ProfileName,
+  ProfilePicture,
+} from "./Profile.styles";
 
 const Profile = (props) => {
   const changeModal = () => {
@@ -10,7 +14,10 @@ const Profile = (props) => {
 
   return (
     <ProfileContainer onClick={changeModal}>
-      <ProfilePicture pledgeClass={props.pledgeClass} image={props.profile.image} />
+      <ProfilePicture
+        pledgeClass={props.pledgeClass}
+        image={props.profile.image}
+      />
       <ProfileName>{props.profile.name}</ProfileName>
     </ProfileContainer>
   );

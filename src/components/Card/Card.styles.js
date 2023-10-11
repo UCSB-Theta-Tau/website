@@ -1,5 +1,5 @@
-import styled from 'styled-components';
-import ReactCardFlip from 'react-card-flip';
+import styled from "styled-components";
+import ReactCardFlip from "react-card-flip";
 
 export const WhiteBackground = styled.div`
   background-color: white;

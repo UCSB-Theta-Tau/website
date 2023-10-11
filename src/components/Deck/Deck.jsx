@@ -1,6 +1,6 @@
-import React from 'react';
-import { DeckContainer, DeckTitle, CardContainer } from './Deck.styles';
-import { Card } from '..';
+import React from "react";
+import { DeckContainer, DeckTitle, CardContainer } from "./Deck.styles";
+import { Card } from "..";
 
 const Deck = (props) => (
   <DeckContainer dark={props.dark}>

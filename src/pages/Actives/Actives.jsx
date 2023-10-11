@@ -1,19 +1,19 @@
-import React, { useState } from 'react';
-import { Class, ActiveModal } from '../../components';
-import { ActivesContainer } from './Actives.styles';
-import classes from './active_list.json';
+import React, { useState } from "react";
+import { Class, ActiveModal } from "../../components";
+import { ActivesContainer } from "./Actives.styles";
+import classes from "./active_list.json";
 
 const Actives = () => {
   const [show, setShow] = useState(false);
-  const [name, setName] = useState('');
-  const [year, setYear] = useState('');
-  const [pledgeClass, setPledgeClass] = useState('');
-  const [hometown, setHometown] = useState('');
-  const [why, setWhy] = useState('');
-  const [what, setWhat] = useState('');
-  const [about, setAbout] = useState('');
-  const [linkedin, setLinkedin] = useState('');
-  const [img, setImg] = useState('');
+  const [name, setName] = useState("");
+  const [year, setYear] = useState("");
+  const [pledgeClass, setPledgeClass] = useState("");
+  const [hometown, setHometown] = useState("");
+  const [why, setWhy] = useState("");
+  const [what, setWhat] = useState("");
+  const [about, setAbout] = useState("");
+  const [linkedin, setLinkedin] = useState("");
+  const [img, setImg] = useState("");
 
   const setModal = (profile) => {
     setShow(true);
@@ -46,11 +46,7 @@ const Actives = () => {
       ) : null}
       <ActivesContainer>
         {classes.map((c) => (
-          <Class
-            name={c.class}
-            actives={c.actives}
-            setModal={setModal}
-          />
+          <Class name={c.class} actives={c.actives} setModal={setModal} />
         ))}
       </ActivesContainer>
     </>

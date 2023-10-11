@@ -1,5 +1,5 @@
-import styled from 'styled-components';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import styled from "styled-components";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 export const Modal = styled.div`
   position: fixed;
@@ -13,7 +13,7 @@ export const Modal = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
-  font-family: Raleway,sans-serif;
+  font-family: Raleway, sans-serif;
 `;
 
 export const ModalCloseContainer = styled.div`

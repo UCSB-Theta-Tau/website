@@ -1,7 +1,7 @@
-import styled from 'styled-components';
-import { NavLink } from 'react-router-dom';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { slide } from 'react-burger-menu';
+import styled from "styled-components";
+import { NavLink } from "react-router-dom";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { slide } from "react-burger-menu";
 
 export const Bar = styled.div`
   display: flex;
@@ -11,10 +11,12 @@ export const Bar = styled.div`
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   width: 100vw;
   max-width: 100vw;
-  position:fixed;
+  position: fixed;
   background-color: white;
   z-index: 1;
-  font: 1.4em Raleway,sans-serif;
+  font:
+    1.4em Raleway,
+    sans-serif;
   color: #333;
 `;
 
@@ -87,7 +89,9 @@ export const MenuIcon = styled(FontAwesomeIcon)`
 
 export const Menu = styled(slide)`
   background-color: white;
-  font: 1.4em Raleway,sans-serif;
+  font:
+    1.4em Raleway,
+    sans-serif;
   color: #333;
   display: flex;
   flex-direction: column;

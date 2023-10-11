@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 export const StyledFaqsList = styled.div`
   display: flex;
@@ -8,7 +8,7 @@ export const StyledFaqsList = styled.div`
   background: #efefef;
   padding: 10em 0 10em 0;
   padding: rem;
-  font-family: Raleway,sans-serif;
+  font-family: Raleway, sans-serif;
   text-align: center;
 `;
 

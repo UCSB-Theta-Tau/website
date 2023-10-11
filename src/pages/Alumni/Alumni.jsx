@@ -1,16 +1,16 @@
-import React, { useState } from 'react';
-import { Class, ActiveModal } from '../../components';
-import { AlumniContainer } from './Alumni.styles';
-import classes from './alumni_list.json';
+import React, { useState } from "react";
+import { Class, ActiveModal } from "../../components";
+import { AlumniContainer } from "./Alumni.styles";
+import classes from "./alumni_list.json";
 
 const Alumni = () => {
   const [show, setShow] = useState(false);
-  const [name, setName] = useState('');
-  const [year, setYear] = useState('');
-  const [pledgeClass, setPledgeClass] = useState('');
-  const [hometown, setHometown] = useState('');
-  const [linkedin, setLinkedin] = useState('');
-  const [img, setImg] = useState('');
+  const [name, setName] = useState("");
+  const [year, setYear] = useState("");
+  const [pledgeClass, setPledgeClass] = useState("");
+  const [hometown, setHometown] = useState("");
+  const [linkedin, setLinkedin] = useState("");
+  const [img, setImg] = useState("");
 
   const setModal = (profile) => {
     setShow(true);
@@ -37,11 +37,7 @@ const Alumni = () => {
       ) : null}
       <AlumniContainer>
         {classes.map((c) => (
-          <Class
-            name={c.class}
-            actives={c.actives}
-            setModal={setModal}
-          />
+          <Class name={c.class} actives={c.actives} setModal={setModal} />
         ))}
       </AlumniContainer>
     </>

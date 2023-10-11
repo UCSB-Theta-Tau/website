@@ -1,6 +1,10 @@
-import React from 'react';
-import Typist from 'react-typist';
-import { FullPageContainer, FullPageTitle, FullPageText } from './HomeFullPage.styles';
+import React from "react";
+import Typist from "react-typist";
+import {
+  FullPageContainer,
+  FullPageTitle,
+  FullPageText,
+} from "./HomeFullPage.styles";
 
 const HomeFullPage = () => (
   <FullPageContainer
@@ -8,9 +12,7 @@ const HomeFullPage = () => (
     cursor={{ show: false }}
     startDelay={500}
   >
-    <FullPageTitle>
-      UCSB Theta Tau
-    </FullPageTitle>
+    <FullPageTitle>UCSB Theta Tau</FullPageTitle>
     <Typist.Delay ms={500} />
     <FullPageText>
       The Largest and Oldest Co-Ed Engineering Fraternity

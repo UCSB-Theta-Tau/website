@@ -1,1 +1,1 @@
-export { QandA } from './QandA';
+export { QandA } from "./QandA";

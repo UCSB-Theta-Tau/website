@@ -1,7 +1,11 @@
-import React, { useState } from 'react';
+import React, { useState } from "react";
 import {
-  CardContainer, CardImg, CardCard, CardTitle, CardText,
-} from './Card.styles';
+  CardContainer,
+  CardImg,
+  CardCard,
+  CardTitle,
+  CardText,
+} from "./Card.styles";
 
 const Card = (props) => {
   const [flipped, setFlipped] = useState(false);
@@ -17,15 +21,14 @@ const Card = (props) => {
   return (
     <CardContainer isFlipped={flipped} flipDirection="horizontal">
       <CardCard onClick={handleFlip}>
-        <CardImg src={`${process.env.PUBLIC_URL + props.img}`} alt={props.title} />
+        <CardImg
+          src={`${process.env.PUBLIC_URL + props.img}`}
+          alt={props.title}
+        />
       </CardCard>
       <CardCard onClick={handleRevert}>
-        <CardTitle>
-          {props.title}
-        </CardTitle>
-        <CardText>
-          {props.text}
-        </CardText>
+        <CardTitle>{props.title}</CardTitle>
+        <CardText>{props.text}</CardText>
       </CardCard>
     </CardContainer>
   );

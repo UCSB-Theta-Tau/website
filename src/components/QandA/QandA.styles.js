@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 export const StyledFaq = styled.div`
   cursor: pointer;
@@ -15,7 +15,7 @@ export const StyledFaq = styled.div`
     overflow: hidden;
 
     span {
-      display: block; 
+      display: block;
       padding: 20px 10px;
     }
   }
