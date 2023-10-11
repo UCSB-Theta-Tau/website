@@ -786,6 +786,33 @@
                 "image": "Ashley_Wang.jpeg"
             },
             {
+                "name": "Heather Dinh",
+                "year": "Graduated: BS Computer Science '23",
+                "hometown": "Simi Valley, CA",
+                "why": "I joined Theta Tau to meet cool engineering majors with similar interests!",
+                "what": "I like how TT is a great balance between a professional and social fraternity. Everyone I've met has been really friendly and supportive, and I enjoy spending time with the brothers.",
+                "about": "I'm a fourth year CS major and love hanging out with friends and playing tennis. I also grew up playing music, so I spend a lot of time listening to Spotify (mostly r&b and pop), and jamming on the guitar/piano.",
+                "linkedin": "https://www.linkedin.com/in/heather-dinh/",
+                "image": "Heather_Dinh.jpg"
+            },
+            {
+                "name": "Jake Yim",
+                "year": "Graduated: BS Computer Science '23",
+                "hometown": "Fremont, CA",
+                "why": "To make new personal and professional relationships with like-minded people.",
+                "what": "Making lifelong friends and meeting new people who I can relate to.",
+                "about": "In my free time, I like going on walks, playing basketball with friends, drawing, and watching anime.",
+                "linkedin": "https://www.linkedin.com/in/jake-yim/",
+                "image": "Jake_Yim.jpg"
+            },
+            {
+                "name": "Koki Narimoto",
+                "year": "Graduated: BS Computer Science '22",
+                "hometown": "Torrance, CA",
+                "linkedin": "www.linkedin.com/in/koki-narimoto/",
+                "image": "Koki_Narimoto.png"
+            },
+            {
                 "name": "Lara Floegel-Shetty",
                 "year": "Graduated: MS Computer Science '22",
                 "hometown": "Los Angeles, CA",
@@ -800,11 +827,35 @@
                 "image": "Lina_Zeng.png"
             },
             {
-                "name": "Koki Narimoto",
-                "year": "Graduated: BS Computer Science '22",
-                "hometown": "Torrance, CA",
-                "linkedin": "www.linkedin.com/in/koki-narimoto/",
-                "image": "Koki_Narimoto.png"
+                "name": "Maya Fussell",
+                "year": "Graduated: MS Mechanical Engineering '23",
+                "hometown": "San Jose, CA",
+                "why": "I joined Theta Tau to meet people with similar interests and passions that I can connect with both academically and socially.",
+                "what": "I love that I can go to anyone in the organization with a problem I'm struggling with, whether its personal, professional, or social, and they would be more than happy to help me out. I've made some of my closest friends through the org, as well as lifelong memories.",
+                "about": "When I'm not catching up on the lectures that I accidentally slept through, I love gaming, beach volleyball, skateboarding, and getting overly invested in arguments about the best type of alternative milk (in case you were wondering, it's clearly oat.)",
+                "linkedin": "https://www.linkedin.com/in/maya-fussell/",
+                "image": "Maya_Fussell.jpeg"
+            },
+            {
+                "name": "Michael Howo",
+                "year": "Graduated: BS Mechanical Engineering '23",
+                "hometown": "San Diego, CA",
+                "why": "I wanted to get to know more of my fellow engineering students.",
+                "what": "I really enjoy being part of this great community of engineers. I think it is a really good balance of a social and academic environment.",
+                "about": "I am a fourth year Mechanical Engineering major. In my free time I like to play chess, skate around campus, and hang out with friends!",
+                "linkedin": "https://www.linkedin.com/in/michaelhowo/",
+                "image": "Michael_Howo.png",
+                "hide": true
+            },
+            {
+                "name": "Surya Pugal",
+                "year": "Graduated: MS Computer Science '23",
+                "hometown": "Fremont, CA",
+                "why": "During the pandemic, opportunities for socializing were especially limited so I wanted to join Theta Tau to meet new people in engineering! ",
+                "what": "If you had told me a couple years ago that I would join a fraternity, I would've called you crazy. However, because of Theta Tau, I've been able to go out of my comfort zone, make close friends, and pursue interests I never initially envisioned myself doing. From overcoming my fear of rollercoasters to trying (and now nonstop playing) League of Legends, TT has played an integral part in my UCSB journey.",
+                "about": "I love eating, playing table tennis, and reading about public policy. Hit me up if you have any questions about TT, the BS/MS program, or just want to talk!",
+                "linkedin": "https://www.linkedin.com/in/suryapugal/",
+                "image": "Surya_Pugal.png"
             }
         ]
     },
@@ -812,11 +863,43 @@
         "class": "theta",
         "actives": [
             {
+                "name": "Andrew Mah",
+                "year": "Graduated: BS Mechanical Engineering '23",
+                "hometown": "San Gabriel, CA",
+                "about": "Hey! I'm a fourth year Mechanical Engineering major and have a strong interest in the automotive industry. Outside of school, I like to play video games (League/Valorant/TFT) with friends and compete in the YGO scene. I hope to also get back into playing basketball!",
+                "linkedin": "https://www.linkedin.com/in/andrewmah45/",
+                "image": "Andrew_Mah.png"
+            },
+            {
+                "name": "Dan Le",
+                "year": "Graduated: BS Chemical Engineering '23",
+                "hometown": "Westminster, CA",
+                "about": "I like finding new movies to watch with friends and playing board games afterwards. I also play videogames. A lot.",
+                "linkedin": "https://www.linkedin.com/in/dan-le-0b6085205/",
+                "image": "Dan_Le.jpg"
+            },
+            {
+                "name": "Jake Amano",
+                "year": "Graduated: BS Electrical Engineering '23",
+                "hometown": "Torrance, CA",
+                "about": "I like to hoop, listen to Drake, eat chicken, and work anyone in Warzone.",
+                "linkedin": "www.linkedin.com/in/jakeamano",
+                "image": "Jake_Amano.jpg"
+            },
+            {
                 "name": "Kyle Kam",
                 "year": "Graduated: BS Computer Engineering '22",
                 "hometown": "San Mateo, CA",
                 "linkedin": "https://www.linkedin.com/in/kyle-kam/",
                 "image": "Kyle_Kam.png"
+            },
+            {
+                "name": "Skylar Winig",
+                "year": "Graduated: BS Computer Engineering '23",
+                "hometown": "Rancho Palos Verdes, CA",
+                "about": "In my free time, I like to surf, play soccer, and watch F1",
+                "linkedin": "https://www.linkedin.com/in/skylar-winig/",
+                "image": "Skylar_Winig.jpg"
             }
         ]
     },
@@ -829,6 +912,27 @@
                 "hometown": "Garden Grove, CA",
                 "linkedin": "https://www.linkedin.com/in/william-tran-245871191/",
                 "image": "Bill_Tran.jpg"
+            },
+            {
+                "name": "Jason Lee",
+                "year": "Graduated: BS Chemical Engineering '23",
+                "hometown": "San Diego, CA",
+                "why": "To find a community of people with similar academic and personal ambitions.",
+                "what": "I really like having a close circle of friends who are incredibly supportive and inspiring. Also it's fun.",
+                "about": "Enjoyer of food (both eating and cooking), working out, and geeking out over tv shows and stuff.",
+                "linkedin": "https://www.linkedin.com/in/jason-lee-7359ba201/",
+                "image": "Jason_Lee.jpg"
+            },
+            {
+                "name": "Tim Chang",
+                "year": "Third Year Computer Science",
+                "hometown": "San Jose, CA",
+                "why": "For professional growth and to meet some cool people.",
+                "what": "I value the strong bond of brotherhood within Theta Tau.",
+                "about": "My name is Tim and I'm currently pursuing a degree in Computer Science.",
+                "linkedin": "https://www.linkedin.com/in/timothychichang/",
+                "image": "Tim_Chang.jpg",
+                "hide": true
             }
         ]
     }
