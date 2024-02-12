@@ -444,9 +444,9 @@
                 "name": "Daisy Zhong",
                 "year": "Second Year Computer Science",
                 "hometown": "Rocklin, CA",
-                "why": "",
-                "what": "",
-                "about": "",
+                "why": "I joined TT because I wanted to be part of the cool kids engineering club and switch out of data science",
+                "what": "In TT I learned a lot about stuff and became an excellent computer scientist under the tutelage of Wesley Truong",
+                "about": "I'm three feet tall but claim to have six foot energy. I sleep at 9 pm because I'm an oldy grandma dinosaur.",
                 "linkedin": "",
                 "image": "Daisy_Zhong.jpg"
             },
@@ -524,9 +524,9 @@
                 "name": "Liliana Nguyen",
                 "year": "Third Year Computer Science",
                 "hometown": "Anaheim, CA",
-                "why": "",
-                "what": "",
-                "about": "",
+                "why": "As a first-gen college student, I was looking for a welcoming community that could help me academically, professionally, and socially.",
+                "what": "It's nice seeing familiar faces all around campus and in my classes. I think being a part of TT has given me a richer college experience where I can make a lot of fun memories. I also feel supported in my academics and have received a lot of professional mentoring.",
+                "about": "Some things I enjoy doing in my free time is visiting cafes, hanging out with friends, playing video games and volleyball, and reading webtoons. My favorite food is spicy fried chicken :))",
                 "linkedin": "",
                 "image": "Liliana_Nguyen.jpg"
             },
@@ -534,9 +534,9 @@
                 "name": "Michelle Thorbjorsen",
                 "year": "Second Year Chemical Engineering",
                 "hometown": "Pleasanton, CA",
-                "why": "",
-                "what": "",
-                "about": "",
+                "why": "I did not know much about TT before rush but what intrigued me was a community that provided a multitude of resources and academic support. I wanted to surround myself with hard-working and ambitious engineers who would motivate me.",
+                "what": "I initially joined TT for academic purposes but quickly realized there was much more to TT than school. I met a bunch of new welcoming people and was able to develop friendships with them through many different social events. The community makes studying engineering feel much less overwhelming by being able to struggle through it together.",
+                "about": "I grew up in Boston, spent high school at an International school in Abu Dhabi, and had an amazing time. I have a twin sister at UCSB, an older brother, and a younger sister.",
                 "linkedin": "",
                 "image": "Michelle_Thorbjorsen.jpg"
             },
@@ -568,7 +568,8 @@
                 "what": "I enjoy being able to be around people in the same field as me.",
                 "about": "",
                 "linkedin": "",
-                "image": "Varsha_Mattaparti.jpg"
+                "image": "Varsha_Mattaparti.jpg",
+                "hide": true
             },
             {
                 "name": "Wesley Truong",
