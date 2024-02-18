@@ -4,7 +4,7 @@ import { InstagramEmbed } from 'react-social-media-embed';
 
 const News = () => (
   <>
-    <FullPage title="News" img="/static/service/service.jpg" />
+    <FullPage title="News" img="/static/news/news.jpg" />
     <About title="Recent News" text="" />
     {/* <Gallery imageDir="/static/service/service" size={3} /> */}
     <div style={{ display: 'flex', justifyContent: 'center' }}>
