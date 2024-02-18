@@ -84,6 +84,11 @@ const Navbar = () => {
             Rush
           </MenuLink>
         </MenuItem>
+        <MenuItem>
+          <MenuLink to="/news" onClick={handleClose}>
+            News
+          </MenuLink>
+        </MenuItem>
       </Menu>
     </>
   );
