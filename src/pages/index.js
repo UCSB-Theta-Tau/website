@@ -6,4 +6,4 @@ export { Service } from './Service';
 export { Actives } from './Actives';
 export { Alumni } from './Alumni';
 export { Rush } from './Rush';
-export { News } from './News'; 
+export { News } from './News';

@@ -1,6 +1,6 @@
 import React from 'react';
-import { FullPage, About, Gallery } from '../../components';
 import { InstagramEmbed } from 'react-social-media-embed';
+import { FullPage, About } from '../../components';
 
 const News = () => (
   <>
