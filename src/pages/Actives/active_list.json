@@ -611,5 +611,100 @@
                 "image": "Yoana_Hui.jpg"
             }
         ]
+    },
+    {
+        "class": "nu",
+        "actives": [
+            {
+                "name": "Gen Tamada",
+                "year": "Third Year Computer Science",
+                "hometown": "",
+                "why": "",
+                "what": "",
+                "about": "",
+                "linkedin": "",
+                "image": "Gen_Tamada.jpg"
+            },
+            {
+                "name": "Hae Chan Park ",
+                "year": "Third Year Electrical Engineering",
+                "hometown": "",
+                "why": "",
+                "what": "",
+                "about": "",
+                "linkedin": "",
+                "image": "Hae_Chan_Park.jpg"
+            },
+            {
+                "name": "Jeffrey Lu",
+                "year": "Fourth Year Mechanical Engineering",
+                "hometown": "",
+                "why": "",
+                "what": "",
+                "about": "",
+                "linkedin": "",
+                "image": "Jeffrey_Lu.jpg"
+            },
+            {
+                "name": "Johnson Chan",
+                "year": "Third Year Computer Science",
+                "hometown": "",
+                "why": "",
+                "what": "",
+                "about": "",
+                "linkedin": "",
+                "image": "Johnson_Chan.jpg"
+            },
+            {
+                "name": "Lily Campbell",
+                "year": "First Year Chemical Engineering",
+                "hometown": "",
+                "why": "",
+                "what": "",
+                "about": "",
+                "linkedin": "",
+                "image": "Lily_Campbell.jpg"
+            },
+            {
+                "name": "Mai Dang",
+                "year": "Third Year Computer Science",
+                "hometown": "",
+                "why": "",
+                "what": "",
+                "about": "",
+                "linkedin": "",
+                "image": "Mai_Dang.jpg"
+            },
+            {
+                "name": "Rohan Kumar",
+                "year": "Third Year Computer Science",
+                "hometown": "",
+                "why": "",
+                "what": "",
+                "about": "",
+                "linkedin": "",
+                "image": "Rohan_Kumar.jpg"
+            },
+            {
+                "name": "Tim Schmuelling",
+                "year": "Third Year Mechanical Engineering",
+                "hometown": "",
+                "why": "",
+                "what": "",
+                "about": "",
+                "linkedin": "",
+                "image": "Tim_Schmuelling.jpg"
+            },
+            {
+                "name": "Victor Nardi",
+                "year": "Second Year Computer Science",
+                "hometown": "",
+                "why": "",
+                "what": "",
+                "about": "",
+                "linkedin": "",
+                "image": "Victor_Nardi.jpg"
+            }
+        ]
     }
 ]
