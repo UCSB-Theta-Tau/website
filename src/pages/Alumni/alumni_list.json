@@ -786,6 +786,16 @@
                 "image": "Ashley_Wang.jpeg"
             },
             {
+                "name": "Chiyo McMullin",
+                "year": "Fourth Year Mechanical Engineering",
+                "hometown": "Cupertino, CA",
+                "why": "To make more engineering friends :')",
+                "what": "Everyone is super welcoming and passionate!",
+                "about": "I love thrifting and chilling on the beach. I also love Minecraft parodies.",
+                "linkedin": "https://www.linkedin.com/in/chiyo-mcmullin-ab59531b5/",
+                "image": "Chiyo_McMullin.jpg"
+            },
+            {
                 "name": "Heather Dinh",
                 "year": "Graduated: BS Computer Science '23",
                 "hometown": "Simi Valley, CA",
@@ -796,6 +806,16 @@
                 "image": "Heather_Dinh.jpg"
             },
             {
+                "name": "Ishaan Nagpal",
+                "year": "Fourth Year Computer Science",
+                "hometown": "San Jose, CA",
+                "why": "I joined Theta Tau to create lifelong bonds and connections with engineers.",
+                "what": "I enjoy making memories with my brothers :)",
+                "about": "I chose to major in computer science to explore my passion for creative thinking and problem solving. In my free time, I enjoy sailing, kayaking, aviation, and photography.",
+                "linkedin": "https://www.linkedin.com/in/ishaannagpal",
+                "image": "Ishaan_Nagpal.jpg"
+            },
+            {
                 "name": "Jake Yim",
                 "year": "Graduated: BS Computer Science '23",
                 "hometown": "Fremont, CA",
@@ -804,6 +824,16 @@
                 "about": "In my free time, I like going on walks, playing basketball with friends, drawing, and watching anime.",
                 "linkedin": "https://www.linkedin.com/in/jake-yim/",
                 "image": "Jake_Yim.jpg"
+            },
+            {
+                "name": "Khalid Mihlar",
+                "year": "Fourth Year Computer Engineering",
+                "hometown": "Torrance, CA",
+                "why": "I joined Theta Tau due to the profession nature of its members, and the strong brotherhood the active body presents for one another.",
+                "what": "The best part of TT is definitely the active body. For me personally, I feel comfortable talking to any of the actives. Everyone in this professional fraternity showcases a bond of fraternal friendship to each other, creating a strong brotherhood within the members that can be seen between any of the active body.",
+                "about": "My name is Khalid Mihlar. I am a somewhat energetic human who has way to many interests in video games and pop culture media. I can safely say the best part of life is having the most random moments of life occur with the right people!",
+                "linkedin": "https://www.linkedin.com/in/khalid-mihlar-416462168/",
+                "image": "Khalid_Mihlar.jpg"
             },
             {
                 "name": "Koki Narimoto",
@@ -848,6 +878,26 @@
                 "hide": true
             },
             {
+                "name": "Rutvik Jha",
+                "year": "Master's Computer Engineering",
+                "hometown": "San Ramon, CA",
+                "why": "I joined Theta Tau to meet like-minded, driven engineers.",
+                "what": "I enjoy, most, the people that I have met through Theta Tau. They are talented, ambitious, and endlessly supportive.",
+                "about": "I am a Computer Engineering student by passion. In my free time, I enjoy hiking on local trails, and I enjoy playing music.",
+                "linkedin": "https://www.linkedin.com/in/rutvik-jha-4b2935153/",
+                "image": "Rutvik_Jha.jpg"
+            },
+            {
+                "name": "Sahil Naik",
+                "year": "Master's Computer Engineering",
+                "hometown": "Fremont, CA",
+                "why": "I joined Theta Tau for the professional experience and creating a strong brotherhood with people of similar social, academic, and professional interests.",
+                "what": "My favorite part about Theta Tau is that despite being unique in our own ways, all of our brothers have an insane amount of similarities. Whether that be work ethic or social lives, I personally feel as if there are several ways I can bond and have fun with all my brothers.",
+                "about": "I love hanging out with friends and going out on random spontaneous adventures. Im also a pretty big tech nerd and love video games and anything software related.",
+                "linkedin": "https://www.linkedin.com/in/sahilnaik/",
+                "image": "Sahil_Naik.jpg"
+            },
+            {
                 "name": "Surya Pugal",
                 "year": "Graduated: MS Computer Science '23",
                 "hometown": "Fremont, CA",
@@ -871,6 +921,13 @@
                 "image": "Andrew_Mah.png"
             },
             {
+                "name": "Ben Neuman",
+                "year": "Fourth Year Mechanical Engineering",
+                "hometown": "Burlingame, CA",
+                "about": "Answering this question for what I enjoy about TT---I really enjoy the sense of community that Theta Tau brings. I have made many close friends through TT events and am eager to make many more in the near future!",
+                "image": "Ben_Neuman.jpg"
+            },
+            {
                 "name": "Dan Le",
                 "year": "Graduated: BS Chemical Engineering '23",
                 "hometown": "Westminster, CA",
@@ -885,6 +942,16 @@
                 "about": "I like to hoop, listen to Drake, eat chicken, and work anyone in Warzone.",
                 "linkedin": "www.linkedin.com/in/jakeamano",
                 "image": "Jake_Amano.jpg"
+            },
+            {
+                "name": "Justin Chang",
+                "year": "Fourth Year Computer Science",
+                "hometown": "San Jose, CA",
+                "why": "I joined Theta Tau to expand my network and make new friends.",
+                "what": "I love the fact that I am able to surround myself with like-minded engineers, especially since the engineering department at UCSB is so small.",
+                "about": "In my free time, I enjoy backpacking, playing video games, and spending time with my friends.",
+                "linkedin": "https://www.linkedin.com/in/just-in-chang/",
+                "image": "Justin_Chang.jpg"
             },
             {
                 "name": "Kyle Kam",
@@ -904,8 +971,48 @@
         ]
     },
     {
+        "class": "iota", 
+        "actives": [
+            {
+                "name": "Anthony Botros",
+                "year": "Master's Mechanical Engineering",
+                "hometown": "Van Nuys, CA",
+                "about": "I am a mechanical engineer major with an interest in materials science. I like to build stuff in my spare time and I do a lot of research work. I enjoy learning new things and I always like to go hiking, playing sports or video games, or doing anything with friends.",
+                "linkedin": "https://www.linkedin.com/in/botrosanthony/",
+                "image": "Anthony_Botros.jpg"
+            },
+            {
+                "name": "Kelvin Zhang",
+                "year": "Fourth Year Computer Science",
+                "hometown": "San Ramon, CA",
+                "about": "I was born in the Midwest, grew up in the East Coast, and been living in the Bay Area for the past 6 years.",
+                "image": "Kelvin_Zhang.jpg"
+            }
+        ]
+    },
+    {
         "class": "kappa",
         "actives": [
+            {
+                "name": "Arnav Nayudu",
+                "year": "Fourth Year Computer Science",
+                "hometown": "Fremont, CA",
+                "why": "I joined TT to be get to know more cool people in my field!",
+                "what": "I enjoy having a community of people to rely on for anything, big or small.",
+                "about": "I'm nice at Smash Bros",
+                "linkedin": "https://www.linkedin.com/in/arnav-nayudu",
+                "image": "Arnav_Nayudu.jpg"
+            },
+            {
+                "name": "Artyom Keenan",
+                "year": "Fourth Year Mechanical Engineering",
+                "hometown": "Bakersfield, CA",
+                "why": "I joined Theta Tau because I wanted to meet and become friends with other engineering students and to have fun.",
+                "what": "Theta Tau is like a huge friend group of very close friends. I enjoy hanging out with all my brothers in the fraternity and all the fun event we have.",
+                "about": "I love playing basketball, hanging out with friends, watching anime, and playing video games.",
+                "linkedin": "https://www.linkedin.com/in/artyomkeenan",
+                "image": "Artyom_Keenan.jpg"
+            },
             {
                 "name": "Bill Tran",
                 "year": "Graduated: BS Computer Science '23",
@@ -935,5 +1042,21 @@
                 "hide": true
             }
         ]
+    },
+    {
+        "class": "lambda", 
+        "actives": [
+            {
+                "name": "Alexander Granados",
+                "year": "Fourth Year Computer Science",
+                "hometown": "Valencia, CA",
+                "why": "I joined to meet engineers that balanced academics and a social life",
+                "what": "I love having that I now have a group of friends in all of my classes, especially since they are always willing to help out whenever I get stuck",
+                "about": "I enjoy surfing, spending time outdoors, and hanging out with friends",
+                "linkedin": "https://www.linkedin.com/in/alexander-granados-",
+                "image": "Alexander_Granados.jpg"
+            }
+        ]
     }
+
 ]
