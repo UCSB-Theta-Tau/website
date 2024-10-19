@@ -796,6 +796,16 @@
                 "image": "Chiyo_McMullin.jpg"
             },
             {
+                "name": "Ethan Mader",
+                "year": "Fourth Year Computer Science and Math",
+                "hometown": "Los Gatos, CA",
+                "why": "I joined TT to make lasting friendships and build a sense of community within the College of Engineering.",
+                "what": "I enjoy being able to get closer to others with diverse STEM interests and get mentorship for my academics.",
+                "about": "I am a student with a passion for math and computer science. I have diverse interests including tennis, chess, juggling, unicycling, and Rubik's cubes. When I'm not being a massive nerd I enjoy letting loose and playing Lego Star Wars TCS on Wii.",
+                "linkedin": "https://www.linkedin.com/in/ethan-mader-8ba8b3153/",
+                "image": "Ethan_Mader.jpg"
+            },
+            {
                 "name": "Heather Dinh",
                 "year": "Graduated: BS Computer Science '23",
                 "hometown": "Simi Valley, CA",
@@ -824,6 +834,17 @@
                 "about": "In my free time, I like going on walks, playing basketball with friends, drawing, and watching anime.",
                 "linkedin": "https://www.linkedin.com/in/jake-yim/",
                 "image": "Jake_Yim.jpg"
+            },
+            {
+                "name": "Jonathan Lorenzo",
+                "year": "Fifth Year Chemical Engineering",
+                "hometown": "Santa Clarita, CA",
+                "why": "I wanted to see what connections and opportunities Theta Tau can offer.",
+                "what": "The people I've meet in the brotherhood. Each one of them so unique, and fun to talk to. Theta Tau really shift my perspective on college.",
+                "about": "I'm a nerd by heart. I enjoy video games, Dungeon & Dragons, and foam smithing.",
+                "linkedin": "https://www.linkedin.com/in/j-lorenzo/",
+                "image": "Jonathan_Lorenzo.png",
+                "hide": true
             },
             {
                 "name": "Khalid Mihlar",
@@ -855,6 +876,16 @@
                 "hometown": "Cupertino, CA",
                 "linkedin": "https://www.linkedin.com/in/alinazeng18/",
                 "image": "Lina_Zeng.png"
+            },
+            {
+                "name": "Matthew Tom",
+                "year": "Fourth Year Electrical Engineering",
+                "hometown": "Arcadia, CA",
+                "why": "To meet people in engineering and gain more professional knowledge about my major to give me more direction.",
+                "what": "Getting to talk to my pledge brothers and getting more professional advice about my major.",
+                "about": "I was born in Pasadena, but I forget so I just say Arcadia. I enjoy reading comics (any type), going out for runs, and Legos. I am trying to get better at playing the bagpipes, so if anyone knows how to tune highland bagpipes please hit me up. I enjoy listening to any type of music as long as it sounds good.",
+                "linkedin": "https://www.linkedin.com/in/matthew-tom-202561207/",
+                "image": "Matthew_Tom.jpg"
             },
             {
                 "name": "Maya Fussell",
@@ -913,6 +944,14 @@
         "class": "theta",
         "actives": [
             {
+                "name": "Andrew Chen",
+                "year": "Fourth Year Computer Engineering",
+                "hometown": "Saratoga, CA",
+                "about": "Hey, I'm Andrew! I am a self-proclaimed comedic genius if only to myself (most definitely only to myself) and I love sleep (having it and not having it), playing too much video games, and impulse buying things that I'm currently interested in! Current hobbies include mechanical keyboards and analog photography, so if you ever want to chat about those things I'd love to!",
+                "linkedin": "https://www.linkedin.com/in/andrewchen118/",
+                "image": "Andrew_Chen.jpg"
+            },
+            {
                 "name": "Andrew Mah",
                 "year": "Graduated: BS Mechanical Engineering '23",
                 "hometown": "San Gabriel, CA",
@@ -934,6 +973,14 @@
                 "about": "I like finding new movies to watch with friends and playing board games afterwards. I also play videogames. A lot.",
                 "linkedin": "https://www.linkedin.com/in/dan-le-0b6085205/",
                 "image": "Dan_Le.jpg"
+            },
+            {
+                "name": "Dhruv Aggarwal",
+                "year": "Fourth Year Computer Engineering",
+                "hometown": "Oak Park, CA",
+                "about": "I'm currently a 2nd Year working on switching my major to Computer Engineering, but aside from school I spend my free time teaching and training martial arts. I also enjoy listening to music and playing video games with friends!",
+                "linkedin": "https://www.linkedin.com/in/dhruvnaggarwal/",
+                "image": "Dhruv_Aggarwal.jpg"
             },
             {
                 "name": "Jake Amano",
@@ -961,6 +1008,14 @@
                 "image": "Kyle_Kam.png"
             },
             {
+                "name": "Saahil Joshi",
+                "year": "Fourth Year Computer Science",
+                "hometown": "Fremont, CA",
+                "about": "I like videogames, working out, and basketball.",
+                "linkedin": "https://www.linkedin.com/in/saahil-joshi-094797219/",
+                "image": "Saahil_Joshi.jpg"
+            },
+            {
                 "name": "Skylar Winig",
                 "year": "Graduated: BS Computer Engineering '23",
                 "hometown": "Rancho Palos Verdes, CA",
@@ -982,11 +1037,35 @@
                 "image": "Anthony_Botros.jpg"
             },
             {
+                "name": "Edison Chen",
+                "year": "Fourth Year Computer Engineering",
+                "hometown": "San Jose, CA",
+                "about": "I like video games",
+                "linkedin": "https://www.linkedin.com/in/echen555/",
+                "image": "Edison_Chen.jpg"
+            },
+            {
+                "name": "Ethan Nguyen",
+                "year": "Fourth Year Computer Engineering",
+                "hometown": "Anaheim, CA",
+                "about": "I like watching movies, hiking, and cooking random meals I see on TikTok. I always seem to forget to bring a pencil to class so if you see me please offer me one.",
+                "linkedin": "https://www.linkedin.com/in/ethan-nguyen17/",
+                "image": "Ethan_Nguyen.jpg"
+            },
+            {
                 "name": "Kelvin Zhang",
                 "year": "Fourth Year Computer Science",
                 "hometown": "San Ramon, CA",
                 "about": "I was born in the Midwest, grew up in the East Coast, and been living in the Bay Area for the past 6 years.",
                 "image": "Kelvin_Zhang.jpg"
+            },
+            {
+                "name": "Tim Qin",
+                "year": "Fourth Year Computer Engineering",
+                "hometown": "Los Angeles, CA",
+                "about": "I am a Fourth year computer engineering student. I like reading manga and playing games on my free time.",
+                "linkedin": "www.linkedin.com/in/timqin01",
+                "image": "Tim_Qin.jpg"
             }
         ]
     },
@@ -1021,6 +1100,16 @@
                 "image": "Bill_Tran.jpg"
             },
             {
+                "name": "Jai Uparkar",
+                "year": "Fourth Year CCS Computing",
+                "hometown": "Cupertino, CA",
+                "why": "I joined TT to develop a strong social and professional network within my major and achieve somewhat of a work life balance.",
+                "what": "I enjoy the lasting friendships I developed in TT and a sense of belonging during my time at UCSB. Despite everyone's varying interests and backgrounds, I feel that I connect deeply with people in TT whether that be professionally, socially, or academically. ",
+                "about": "I have a passion for utilizing technology to address pressing social issues and inequities within computation. I enjoy playing tennis, reading books, and experimenting in the kitchen. ",
+                "linkedin": "https://www.linkedin.com/in/jai-uparkar/",
+                "image": "Jai_Uparkar.jpg"
+            },
+            {
                 "name": "Jason Lee",
                 "year": "Graduated: BS Chemical Engineering '23",
                 "hometown": "San Diego, CA",
@@ -1029,6 +1118,16 @@
                 "about": "Enjoyer of food (both eating and cooking), working out, and geeking out over tv shows and stuff.",
                 "linkedin": "https://www.linkedin.com/in/jason-lee-7359ba201/",
                 "image": "Jason_Lee.jpg"
+            },
+            {
+                "name": "Jessica Ho",
+                "year": "Fourth Year Computer Science",
+                "hometown": "Hsinchu, Taiwan",
+                "why": "I joined TT because I wanted to find an academically driven and social community and I really connected with the people I met here.",
+                "what": "I appreciate the guidance I've gotten from other TT members and enjoy thr fun times I've had at TT.",
+                "about": "I love thrillers, horrors and dark comedy :)",
+                "linkedin": "https://www.linkedin.com/in/shin-yi-ho/",
+                "image": "Jessica_Ho.jpg"
             },
             {
                 "name": "Tim Chang",
@@ -1055,6 +1154,57 @@
                 "about": "I enjoy surfing, spending time outdoors, and hanging out with friends",
                 "linkedin": "https://www.linkedin.com/in/alexander-granados-",
                 "image": "Alexander_Granados.jpg"
+            },
+            {
+                "name": "Charles Bao",
+                "year": "Fourth Year Computer Science",
+                "hometown": "San Diego, CA",
+                "why": "I joined because a lot of my friends were actives and I wanted to meet new people :)",
+                "what": "I enjoy hanging out with other actives and doing stupid stuff with them",
+                "about": "I spend most of my day asleep, but when I'm awake, I'm either watching TV, lifting, or hanging out with friends",
+                "linkedin": "https://www.linkedin.com/in/charles-bao-21709119b/",
+                "image": "Charles_Bao.jpg",
+                "hide": true
+            }
+        ]
+    },
+    {
+        "class": "mu",
+        "actives": [
+            {
+                "name": "Krish Agarwal",
+                "year": "Fourth Year Computer Science",
+                "hometown": "Cupertino, CA",
+                "why": " I joined because I attended the ice cream social and met a lot of likeminded people not only academically but also on a social and personal level ",
+                "what": "Any time spent with the Mu's ",
+                "about": " I enjoy anything Kpop, collecting colognes, playing pokémon and zelda, and hitting the gym",
+                "linkedin": "",
+                "image": "Krish_Agarwal.jpg"
+            }
+        ]
+    },
+    {
+        "class": "nu",
+        "actives": [
+            {
+                "name": "Jeffrey Lu",
+                "year": "Fourth Year Mechanical Engineering",
+                "hometown": "",
+                "why": "",
+                "what": "",
+                "about": "",
+                "linkedin": "",
+                "image": "Jeffrey_Lu.jpg"
+            },
+            {
+                "name": "Johnson Chan",
+                "year": "Third Year Computer Science",
+                "hometown": "",
+                "why": "",
+                "what": "",
+                "about": "",
+                "linkedin": "https://www.linkedin.com/in/chenghanchan/",
+                "image": "Johnson_Chan.jpg"
             }
         ]
     }
