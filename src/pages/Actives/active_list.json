@@ -543,5 +543,90 @@
                 "image": "fraternalfellowship.png"
             }
         ]
+    }, 
+    {
+        "class": "omicron",
+        "actives": [
+            {
+                "name": "Akhila Johny",
+                "year": "3rd Year Electrical Engineering",
+                "hometown": "",
+                "why": "",
+                "what": "",
+                "about": "",
+                "linkedin": "",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Alvin Chan",
+                "year": "2nd Year Computer Science",
+                "hometown": "",
+                "why": "",
+                "what": "",
+                "about": "",
+                "linkedin": "",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Bruce Huang",
+                "year": "3rd Year Computer Engineering",
+                "hometown": "",
+                "why": "",
+                "what": "",
+                "about": "",
+                "linkedin": "",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Nicho Sunardi",
+                "year": "2nd Year Chemical Engineering",
+                "hometown": "",
+                "why": "",
+                "what": "",
+                "about": "",
+                "linkedin": "",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Noah Louie",
+                "year": "2nd Year Computer Engineering",
+                "hometown": "",
+                "why": "",
+                "what": "",
+                "about": "",
+                "linkedin": "",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Ryen Chen",
+                "year": "4th Year Mechanical Engineering",
+                "hometown": "",
+                "why": "",
+                "what": "",
+                "about": "",
+                "linkedin": "",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Saanvi Pabbichetty",
+                "year": "2nd Year Computer Science",
+                "hometown": "",
+                "why": "",
+                "what": "",
+                "about": "",
+                "linkedin": "",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Michael Borowski",
+                "year": "2nd Year Chemical Engineering",
+                "hometown": "",
+                "why": "",
+                "what": "",
+                "about": "",
+                "linkedin": "",
+                "image": "fraternalfellowship.png"
+            }
+        ]
     }
 ]
